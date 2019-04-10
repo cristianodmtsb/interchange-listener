@@ -1,0 +1,84 @@
+import styled from "styled-components";
+
+export const Container = styled.div`
+  margin-top: 30px;
+  overflow: auto;
+`;
+export const Header = styled.div`
+  display: flex;
+  align-items: center;
+
+  img {
+    width: 220px;
+    height: 220px;
+    background: #fff;
+    border-radius: 4px;
+  }
+  div {
+    margin-left: 20px;
+    span {
+      font-size: 11px;
+      letter-spacing: 1.11px;
+      font-weight: 300;
+      text-transform: uppercase;
+    }
+    h1 {
+      margin-top: 10px;
+      font-size: 38px;
+    }
+    p {
+      margin-top: 10px;
+      color: #b3b3b3;
+      font-size: 14px;
+      letter-spacing: 1.11px;
+    }
+    button {
+      background: #1db854;
+      height: 32px;
+      border-radius: 16px;
+      color: #fff;
+      line-height: 32px;
+      padding: 0 36px;
+      border: 0;
+      margin-top: 10px;
+      font-size: 12px;
+      letter-spacing: 1.11px;
+      cursor: pointer;
+    }
+  }
+`;
+
+export const AudioList = styled.table`
+  width: 100%;
+  text-align: left;
+  margin-top: 20px;
+
+  thead th {
+    font-size: 11px;
+    color: #b3b3b3;
+    letter-spacing: 1.11px;
+    font-weight: normal;
+    text-transform: uppercase;
+    padding: 5px 10px;
+    &:last-child {
+      text-align: right;
+    }
+  }
+  tbody td {
+    border-top: 1px solid #282828;
+    font-size: 13px;
+    padding: 0 10px;
+    line-height: 40px;
+    &:first-child {
+      width: 80px;
+      text-align: right;
+      padding: 15px 0 0 0;
+    }
+    &:last-child {
+      text-align: right;
+    }
+  }
+  tbody tr:hover td {
+    background: rgba(0, 0, 0, 0.2);
+  }
+`;
