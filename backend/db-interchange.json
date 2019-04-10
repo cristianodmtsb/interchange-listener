@@ -1,0 +1,4604 @@
+{
+  "intro": {
+    "title": "Interchange Fourth Edition Intro Class Audio",
+    "link": [
+      "http://www.cambridge.org/interchange/audioprogram/level0/interchange4_L0_audio_rss.xml",
+      {
+        "@href": "http://www.cambridge.org/interchange/audioprogram/level0/interchange4_L0_audio_rss.xml",
+        "@rel": "self"
+      }
+    ],
+    "description": "The Interchange Fourth Edition Intro Class Audio, prepared for your portable media player.",
+    "pubDate": "Thu, 08 Dec 2011 10:59:56 GMT",
+    "lastBuildDate": "Thu, 08 Dec 2011 10:59:56 GMT",
+    "language": "en",
+    "category": {
+      "@text": "Education",
+      "category": {
+        "@text": "Language Courses"
+      }
+    },
+    "subtitle": "The Interchange Fourth Edition Intro Class Audio, prepared for your portable media player.",
+    "summary": "The Interchange Fourth Edition Intro Class Audio, prepared for your portable media player.",
+    "owner": {
+      "name": "Cambridge University Press",
+      "email": "cstechsupport@cambridge.org"
+    },
+    "image": [
+      {
+        "@href": "http://www.cambridge.org/interchange/audioprogram/level0/sb0_cover.jpg"
+      },
+      {
+        "title": "Interchange Fourth Edition Intro Class Audio",
+        "link": "http://www.cambridge.org/interchange/audioprogram/level0/interchange4_L0_audio_rss.xml",
+        "url": "http://www.cambridge.org/interchange/audioprogram/level0/sb0_cover.jpg",
+        "width": "468",
+        "height": "600"
+      }
+    ],
+    "explicit": "no",
+    "item": [
+      {
+        "unit": "01",
+        "pg": "002",
+        "ex": "01 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit01_Pg002_Ex01_Conversation_PtA.mp3",
+        "@length": "373760"
+      },
+      {
+        "unit": "01",
+        "pg": "002",
+        "ex": "02 Snapshot",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit01_Pg002_Ex02_Snapshot.mp3",
+        "@length": "369664"
+      },
+      {
+        "unit": "01",
+        "pg": "003",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit01_Pg003_Ex03_GrammarFocus.mp3",
+        "@length": "465920"
+      },
+      {
+        "unit": "01",
+        "pg": "003",
+        "ex": "04 Spelling Names Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit01_Pg003_Ex04_SpellingNames_PtA.mp3",
+        "@length": "613376"
+      },
+      {
+        "unit": "01",
+        "pg": "003",
+        "ex": "04 Spelling Names Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit01_Pg003_Ex04_SpellingNames_PtB.mp3",
+        "@length": "596992"
+      },
+      {
+        "unit": "01",
+        "pg": "003",
+        "ex": "05 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit01_Pg003_Ex05_Listening.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "01",
+        "pg": "004",
+        "ex": "06 Word Power Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit01_Pg004_Ex06_WordPower_PtA.mp3",
+        "@length": "841728"
+      },
+      {
+        "unit": "01",
+        "pg": "004",
+        "ex": "06 Word Power Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit01_Pg004_Ex06_WordPower_PtB.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "01",
+        "pg": "004",
+        "ex": "07 Saying Hello Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit01_Pg004_Ex07_SayingHello_PtA.mp3",
+        "@length": "1245184"
+      },
+      {
+        "unit": "01",
+        "pg": "005",
+        "ex": "08 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit01_Pg005_Ex08_Conversation_PtA.mp3",
+        "@length": "742400"
+      },
+      {
+        "unit": "01",
+        "pg": "005",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit01_Pg005_Ex09_GrammarFocus.mp3",
+        "@length": "1367040"
+      },
+      {
+        "unit": "01",
+        "pg": "006",
+        "ex": "10 Pronunciation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit01_Pg006_Ex10_Pronunciation.mp3",
+        "@length": "2679808"
+      },
+      {
+        "unit": "01",
+        "pg": "006",
+        "ex": "11 Personal Information Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit01_Pg006_Ex11_PersonalInformation_PtA.mp3",
+        "@length": "1065984"
+      },
+      {
+        "unit": "01",
+        "pg": "006",
+        "ex": "11 Personal Information Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit01_Pg006_Ex11_PersonalInformation_PtB.mp3",
+        "@length": "711680"
+      },
+      {
+        "unit": "01",
+        "pg": "007",
+        "ex": "12 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit01_Pg007_Ex12_Listening_PtA.mp3",
+        "@length": "1817600"
+      },
+      {
+        "unit": "01",
+        "pg": "007",
+        "ex": "14 Saying Good-bye Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit01_Pg007_Ex14_SayingGood-bye_PtA.mp3",
+        "@length": "654336"
+      },
+      {
+        "unit": "02",
+        "pg": "008",
+        "ex": "01 Snapshot",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit02_Pg008_Ex01_Snapshot.mp3",
+        "@length": "1708032"
+      },
+      {
+        "unit": "02",
+        "pg": "008",
+        "ex": "02 Articles Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit02_Pg008_Ex02_Articles_PtA.mp3",
+        "@length": "1689600"
+      },
+      {
+        "unit": "02",
+        "pg": "009",
+        "ex": "03 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit02_Pg009_Ex03_Conversation.mp3",
+        "@length": "625664"
+      },
+      {
+        "unit": "02",
+        "pg": "009",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit02_Pg009_Ex04_Pronunciation_PtA.mp3",
+        "@length": "1095680"
+      },
+      {
+        "unit": "02",
+        "pg": "009",
+        "ex": "04 Pronunciation Pt C",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit02_Pg009_Ex04_Pronunciation_PtC.mp3",
+        "@length": "333824"
+      },
+      {
+        "unit": "02",
+        "pg": "010",
+        "ex": "05 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit02_Pg010_Ex05_GrammarFocus.mp3",
+        "@length": "246784"
+      },
+      {
+        "unit": "02",
+        "pg": "010",
+        "ex": "06 What's This Called? Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit02_Pg010_Ex06_What'sThisCalled_PtA.mp3",
+        "@length": "765952"
+      },
+      {
+        "unit": "02",
+        "pg": "011",
+        "ex": "07 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit02_Pg011_Ex07_Conversation.mp3",
+        "@length": "753664"
+      },
+      {
+        "unit": "02",
+        "pg": "011",
+        "ex": "08 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit02_Pg011_Ex08_GrammarFocus.mp3",
+        "@length": "680960"
+      },
+      {
+        "unit": "02",
+        "pg": "012",
+        "ex": "09 Word Power Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit02_Pg012_Ex09_WordPower_PtA.mp3",
+        "@length": "523264"
+      },
+      {
+        "unit": "02",
+        "pg": "012",
+        "ex": "09 Word Power Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit02_Pg012_Ex09_WordPower_PtB.mp3",
+        "@length": "399360"
+      },
+      {
+        "unit": "02",
+        "pg": "012",
+        "ex": "10 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit02_Pg012_Ex10_Listening.mp3",
+        "@length": "2922496"
+      },
+      {
+        "unit": "01-02 PC",
+        "pg": "015",
+        "ex": "03 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit01-02_PC_Pg015_Ex03_Listening.mp3",
+        "@length": "3530752"
+      },
+      {
+        "unit": "03",
+        "pg": "016",
+        "ex": "01 Snapshot",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit03_Pg016_Ex01_Snapshot.mp3",
+        "@length": "907264"
+      },
+      {
+        "unit": "03",
+        "pg": "016",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit03_Pg016_Ex02_Conversation_PtA.mp3",
+        "@length": "531456"
+      },
+      {
+        "unit": "03",
+        "pg": "016",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit03_Pg016_Ex02_Conversation_PtB.mp3",
+        "@length": "548864"
+      },
+      {
+        "unit": "03",
+        "pg": "017",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit03_Pg017_Ex03_GrammarFocus.mp3",
+        "@length": "1436672"
+      },
+      {
+        "unit": "03",
+        "pg": "018",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit03_Pg018_Ex04_Pronunciation_PtA.mp3",
+        "@length": "1502208"
+      },
+      {
+        "unit": "03",
+        "pg": "018",
+        "ex": "04 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit03_Pg018_Ex04_Pronunciation_PtB.mp3",
+        "@length": "1295360"
+      },
+      {
+        "unit": "03",
+        "pg": "019",
+        "ex": "06 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit03_Pg019_Ex06_Conversation.mp3",
+        "@length": "852992"
+      },
+      {
+        "unit": "03",
+        "pg": "019",
+        "ex": "07 Numbers and Ages Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit03_Pg019_Ex07_NumbersandAges_PtA.mp3",
+        "@length": "576512"
+      },
+      {
+        "unit": "03",
+        "pg": "019",
+        "ex": "07 Numbers and Ages Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit03_Pg019_Ex07_NumbersandAges_PtB.mp3",
+        "@length": "1458176"
+      },
+      {
+        "unit": "03",
+        "pg": "020",
+        "ex": "08 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit03_Pg020_Ex 08_GrammarFocus.mp3",
+        "@length": "734208"
+      },
+      {
+        "unit": "03",
+        "pg": "021",
+        "ex": "09 Word Power Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit03_Pg021_Ex09_WordPower_PtA.mp3",
+        "@length": "1233920"
+      },
+      {
+        "unit": "03",
+        "pg": "021",
+        "ex": "10 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit03_Pg021_Ex10_Listening.mp3",
+        "@length": "540672"
+      },
+      {
+        "unit": "04",
+        "pg": "022",
+        "ex": "01 Word Power Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit04_Pg022_Ex01_WordPower_PtA.mp3",
+        "@length": "324608"
+      },
+      {
+        "unit": "04",
+        "pg": "023",
+        "ex": "02 Colors Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit04_Pg023_Ex02_Colors_PtA.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "04",
+        "pg": "023",
+        "ex": "03 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit04_Pg023_Ex03_Conversation.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "04",
+        "pg": "023",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit04_Pg023_Ex04_Pronunciation_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "04",
+        "pg": "024",
+        "ex": "05 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit04_Pg024_Ex05_GrammarFocus.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "04",
+        "pg": "024",
+        "ex": "06 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit04_Pg024_Ex06_Listening_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "04",
+        "pg": "025",
+        "ex": "07 Snapshot",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit04_Pg025_Ex07_Snapshot.mp3",
+        "@length": "324608"
+      },
+      {
+        "unit": "04",
+        "pg": "025",
+        "ex": "08 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit04_Pg025_Ex08_Conversation.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "04",
+        "pg": "026",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit04_Pg026_Ex09_GrammarFocus.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "04",
+        "pg": "027",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit04_Pg027_Ex09_GrammarFocus.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "04",
+        "pg": "027",
+        "ex": "10 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit04_Pg027_Ex10_Listening_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "03-04 PC",
+        "pg": "028",
+        "ex": "02 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit03-04_PC_Pg028_Ex02_Listening.mp3",
+        "@length": "324608"
+      },
+      {
+        "unit": "05",
+        "pg": "030",
+        "ex": "01 Snapshot",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit05_Pg030_Ex01_Snapshot.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "05",
+        "pg": "030",
+        "ex": "02 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit05_Pg030_Ex02_Conversation.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "05",
+        "pg": "031",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit05_Pg031_Ex03_GrammarFocus_Whattime.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "05",
+        "pg": "031",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit05_Pg031_Ex03_GrammarFocus_AMorPM.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "05",
+        "pg": "032",
+        "ex": "04 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit05_Pg032_Ex04_Listening.mp3",
+        "@length": "324608"
+      },
+      {
+        "unit": "05",
+        "pg": "032",
+        "ex": "05 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit05_Pg032_Ex05_Conversation.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "05",
+        "pg": "032",
+        "ex": "06 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit05_Pg032_Ex06_Pronunciation_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "05",
+        "pg": "032",
+        "ex": "06 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit05_Pg032_Ex06_Pronunciation_PtB.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "05",
+        "pg": "033",
+        "ex": "07 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit05_Pg033_Ex07_GrammarFocus.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "05",
+        "pg": "034",
+        "ex": "08 Word Power Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit05_Pg034_Ex08_WordPower_PtA.mp3",
+        "@length": "324608"
+      },
+      {
+        "unit": "05",
+        "pg": "034",
+        "ex": "08 Word Power Pt C",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit05_Pg034_Ex08_WordPower_PtC.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "05",
+        "pg": "035",
+        "ex": "10 ReadingA",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit05_Pg035_Ex10_Reading.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "06",
+        "pg": "036",
+        "ex": "01 Snapshot",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit06_Pg036_Ex01_Snapshot.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "06",
+        "pg": "036",
+        "ex": "02 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit06_Pg036_Ex 02_Conversation.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "06",
+        "pg": "037",
+        "ex": "03 Word Power Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit06_Pg037_Ex03_WordPower_PtA.mp3",
+        "@length": "324608"
+      },
+      {
+        "unit": "06",
+        "pg": "037",
+        "ex": "04 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit06_Pg037_Ex 04_GrammarFocus.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "06",
+        "pg": "038",
+        "ex": "04 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit06_Pg038_Ex04_GrammarFocus.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "06",
+        "pg": "038",
+        "ex": "05 Pronunciation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit06_Pg038_Ex05_Pronunciation.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "06",
+        "pg": "038",
+        "ex": "06 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit06_Pg038_Ex06_Conversation.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "06",
+        "pg": "039",
+        "ex": "07 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit06_Pg039_Ex07_GrammarFocus.mp3",
+        "@length": "324608"
+      },
+      {
+        "unit": "06",
+        "pg": "040",
+        "ex": "08 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit06_Pg040_Ex08_Listening.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "06",
+        "pg": "041",
+        "ex": "11 Reading",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit06_Pg041_Ex11_Reading.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "05-06 PC",
+        "pg": "042",
+        "ex": "01 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit05-06_PC_Pg042_Ex01_Listening.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "07",
+        "pg": "044",
+        "ex": "01 Snapshot",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit07_Pg044_Ex01_Snapshot.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "07",
+        "pg": "044",
+        "ex": "02 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit07_Pg044_Ex02_Conversation.mp3",
+        "@length": "324608"
+      },
+      {
+        "unit": "07",
+        "pg": "045",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit07_Pg045_Ex03_GrammarFocus.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "07",
+        "pg": "045",
+        "ex": "04 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit07_Pg045_Ex04_Listening.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "07",
+        "pg": "046",
+        "ex": "05 Word Power Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit07_Pg046_Ex05_WordPower_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "07",
+        "pg": "047",
+        "ex": "06 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit07_Pg047_Ex06_Conversation.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "07",
+        "pg": "047",
+        "ex": "07 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit07_Pg047_Ex07_GrammarFocus.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "07",
+        "pg": "048",
+        "ex": "09 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit07_Pg048_Ex09_Pronunciation_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "07",
+        "pg": "048",
+        "ex": "10 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit07_Pg048_Ex10_Listening.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "07",
+        "pg": "049",
+        "ex": "12 Reading",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit07_Pg049_Ex12_Reading.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "08",
+        "pg": "050",
+        "ex": "01 Word Power Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit08_Pg050_Ex01_WordPower_PtA.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "08",
+        "pg": "051",
+        "ex": "03 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit08_Pg051_Ex03_Conversation.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "08",
+        "pg": "052",
+        "ex": "04 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit08_Pg052_Ex04_GrammarFocus.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "08",
+        "pg": "052",
+        "ex": "05 Pronunciation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit08_Pg052_Ex05_Pronunciation.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "08",
+        "pg": "053",
+        "ex": "06 Snapshot",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit08_Pg053_Ex06_Snapshot.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "08",
+        "pg": "053",
+        "ex": "07 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit08_Pg053_Ex07_Conversation.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "08",
+        "pg": "053",
+        "ex": "08 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit08_Pg053_Ex08_Listening.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "08",
+        "pg": "054",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit08_Pg054_Ex09_GrammarFocus.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "08",
+        "pg": "055",
+        "ex": "12 Reading",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit08_Pg055_Ex12_Reading.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "07-08 PC",
+        "pg": "057",
+        "ex": "03 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit07-08_PC_Pg057_Ex03_Listening.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "09",
+        "pg": "058",
+        "ex": "01 Word Power Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit09_Pg058_Ex01_WordPower_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "09",
+        "pg": "059",
+        "ex": "02 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit09_Pg059_Ex02_Conversation.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "09",
+        "pg": "059",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit09_Pg059_Ex03_GrammarFocus.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "09",
+        "pg": "060",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit09_Pg060_Ex04_Pronunciation_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "09",
+        "pg": "060",
+        "ex": "05 Snapshot",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit09_Pg060_Ex05_Snapshot.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "09",
+        "pg": "061",
+        "ex": "06 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit09_Pg061_Ex06_Conversation.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "09",
+        "pg": "061",
+        "ex": "07 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit09_Pg061_Ex07_GrammarFocus.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "09",
+        "pg": "062",
+        "ex": "08 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit09_Pg062_Ex08_Listening_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "09",
+        "pg": "063",
+        "ex": "11 Reading",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit09_Pg063_Ex11_Reading.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "10",
+        "pg": "064",
+        "ex": "01 Snapshot",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit10_Pg064_Ex01_Snapshot.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "10",
+        "pg": "064",
+        "ex": "02 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit10_Pg064_Ex02_Conversation.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "10",
+        "pg": "065",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit10_Pg065_Ex03_GrammarFocus.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "10",
+        "pg": "066",
+        "ex": "04 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit10_Pg066_Ex04_Listening.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "10",
+        "pg": "066",
+        "ex": "06 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit10_Pg066_Ex06_Conversation.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "10",
+        "pg": "067",
+        "ex": "07 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit10_Pg067_Ex07_GrammarFocus.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "10",
+        "pg": "067",
+        "ex": "08 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit10_Pg067_Ex08_Pronunciation_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "10",
+        "pg": "068",
+        "ex": "09 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit10_Pg068_Ex09_Listening.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "10",
+        "pg": "068",
+        "ex": "10 Word Power Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit10_Pg068_Ex10_WordPower_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "10",
+        "pg": "069",
+        "ex": "12 Reading",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit10_Pg069_Ex12_Reading.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "09-10 PC",
+        "pg": "071",
+        "ex": "03 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit09-10_PC_Pg071_Ex03_Listening.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "11",
+        "pg": "072",
+        "ex": "01 Months and Dates Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit11_Pg072_Ex01_MonthsandDates_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "11",
+        "pg": "072",
+        "ex": "01 Months and Dates Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit11_Pg072_Ex01_MonthsandDates_PtB.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "11",
+        "pg": "072",
+        "ex": "02 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit11_Pg072_Ex02_Conversation.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "11",
+        "pg": "073",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit11_Pg073_Ex03_GrammarFocus.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "11",
+        "pg": "073",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit11_Pg073_Ex04_Pronunciation_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "11",
+        "pg": "074",
+        "ex": "05 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit11_Pg074_Ex05_Listening_PtB.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "11",
+        "pg": "074",
+        "ex": "07 Snapshot",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit11_Pg074_Ex07_Snapshot.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "11",
+        "pg": "075",
+        "ex": "08 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit11_Pg075_Ex08_Conversation.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "11",
+        "pg": "075",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit11_Pg075_Ex09_GrammarFocus.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "11",
+        "pg": "076",
+        "ex": "10 Word Power Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit11_Pg076_Ex10_WordPower_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "11",
+        "pg": "077",
+        "ex": "12 Reading",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit11_Pg077_Ex12_Reading.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "12",
+        "pg": "078",
+        "ex": "01 Word Power Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit12_Pg078_Ex01_WordPower_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "12",
+        "pg": "079",
+        "ex": "02 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit12_Pg079_Ex02_Conversation.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "12",
+        "pg": "079",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit12_Pg079_Ex03_GrammarFocus.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "12",
+        "pg": "079",
+        "ex": "03 Grammar Focus Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit12_Pg079_Ex 03_GrammarFocus_PtA.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "12",
+        "pg": "080",
+        "ex": "04 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit12_Pg080_Ex04_Listening_PtB.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "12",
+        "pg": "080",
+        "ex": "05 Snapshot",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit12_Pg080_Ex05_Snapshot.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "12",
+        "pg": "081",
+        "ex": "06 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit12_Pg081_Ex06_Conversation.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "12",
+        "pg": "081",
+        "ex": "07 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit12_Pg081_Ex07_Listening.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "12",
+        "pg": "081",
+        "ex": "08 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit12_Pg081_Ex08_Pronunciation_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "12",
+        "pg": "082",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit12_Pg082_Ex09_GrammarFocus.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "12",
+        "pg": "083",
+        "ex": "12 Reading",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit12_Pg083_Ex12_Reading.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "11-12 PC",
+        "pg": "085",
+        "ex": "03 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit11-12_PC_Pg085_Ex03_Listening.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "13",
+        "pg": "086",
+        "ex": "01 Word Power Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit13_Pg086_Ex01_WordPower_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "13",
+        "pg": "087",
+        "ex": "02 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit13_Pg087_Ex02_Listening_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "13",
+        "pg": "087",
+        "ex": "03 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit13_Pg087_Ex03_Conversation.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "13",
+        "pg": "087",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit13_Pg087_Ex04_Pronunciation_PtA.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "13",
+        "pg": "088",
+        "ex": "05 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit13_Pg088_Ex05_GrammarFocus.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "13",
+        "pg": "089",
+        "ex": "06 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit13_Pg089_Ex06_Listening.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "13",
+        "pg": "089",
+        "ex": "07 Snapshot",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit13_Pg089_Ex07_Snapshot.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "13",
+        "pg": "089",
+        "ex": "08 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit13_Pg089_Ex08_Conversation.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "13",
+        "pg": "090",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit13_Pg090_Ex09_GrammarFocus.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "13",
+        "pg": "091",
+        "ex": "11 Reading",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit13_Pg091_Ex11_Reading.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "14",
+        "pg": "092",
+        "ex": "01 Snapshot",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit14_Pg092_Ex01_Snapshot.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "14",
+        "pg": "092",
+        "ex": "02 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit14_Pg092_Ex02_Conversation.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "14",
+        "pg": "093",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit14_Pg093_Ex03_GrammarFocus.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "14",
+        "pg": "093",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit14_Pg093_Ex04_Pronunciation_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "14",
+        "pg": "093",
+        "ex": "04 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit14_Pg093_Ex04_Pronunciation_PtB.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "14",
+        "pg": "094",
+        "ex": "05 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit14_Pg094_Ex05_GrammarFocus.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "14",
+        "pg": "094",
+        "ex": "05 Grammar Focus Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit14_Pg094_Ex05_GrammarFocus_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "14",
+        "pg": "095",
+        "ex": "07 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit14_Pg095_Ex07_Conversation.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "14",
+        "pg": "095",
+        "ex": "08 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit14_Pg095_Ex08_GrammarFocus.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "14",
+        "pg": "096",
+        "ex": "09 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit14_Pg096_Ex09_Listening.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "14",
+        "pg": "096",
+        "ex": "10 Word Power Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit14_Pg096_Ex10_WordPower_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "14",
+        "pg": "097",
+        "ex": "12 Reading",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit14_Pg097_Ex12_Reading.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "13-14 PC",
+        "pg": "098",
+        "ex": "01 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit13-14_PC_Pg098_Ex01_Listening.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "15",
+        "pg": "100",
+        "ex": "01 Snapshot",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit15_Pg100_Ex01_Snapshot.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "15",
+        "pg": "100",
+        "ex": "02 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit15_Pg100_Ex02_Conversation.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "15",
+        "pg": "101",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit15_Pg101_Ex03_GrammarFocus.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "15",
+        "pg": "102",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit15_Pg102_Ex04_Pronunciation_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "15",
+        "pg": "102",
+        "ex": "04 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit15_Pg102_Ex04_Pronunciation_PtB.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "15",
+        "pg": "102",
+        "ex": "05 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit15_Pg102_Ex05_Conversation.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "15",
+        "pg": "103",
+        "ex": "06 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit15_Pg103_Ex06_GrammarFocus.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "15",
+        "pg": "103",
+        "ex": "07 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit15_Pg103_Ex07_Listening_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "15",
+        "pg": "103",
+        "ex": "07 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit15_Pg103_Ex07_Listening_PtB.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "15",
+        "pg": "104",
+        "ex": "08 Word Power Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit15_Pg104_Ex08_WordPower_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "15",
+        "pg": "105",
+        "ex": "11 Reading",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit15_Pg105_Ex11_Reading.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "16",
+        "pg": "106",
+        "ex": "01 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit16_Pg106_Ex01_Conversation.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "16",
+        "pg": "106",
+        "ex": "02 Word Power Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit16_Pg106_Ex02_WordPower_PtA.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "16",
+        "pg": "107",
+        "ex": "03 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit16_Pg107_Ex03_Listening_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "16",
+        "pg": "107",
+        "ex": "03 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit16_Pg107_Ex03_Listening_PtB.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "16",
+        "pg": "107",
+        "ex": "04 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit16_Pg107_Ex04_GrammarFocus.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "16",
+        "pg": "108",
+        "ex": "05 Snapshot",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit16_Pg108_Ex05_Snapshot.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "16",
+        "pg": "108",
+        "ex": "06 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit16_Pg108_Ex06_Conversation.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "16",
+        "pg": "109",
+        "ex": "07 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit16_Pg109_Ex07_Pronunciation_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "16",
+        "pg": "109",
+        "ex": "08 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit16_Pg109_Ex08_GrammarFocus.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "16",
+        "pg": "110",
+        "ex": "10 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit16_Pg110_Ex10_Listening_PtA.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "16",
+        "pg": "110",
+        "ex": "10 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit16_Pg110_Ex10_Listening_PtB.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "16",
+        "pg": "111",
+        "ex": "12 Reading",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit16_Pg111_Ex12_Reading.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "15-16 PC",
+        "pg": "113",
+        "ex": "03 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level0/Interchange4thEd_ClassAudio0_Unit15-16_PC_Pg113_Ex03_Listening.mp3",
+        "@length": "1120256"
+      }
+    ]
+  },
+  "levelOne": {
+    "title": "Interchange Fourth Edition Class Level 1",
+    "link": [
+      "http://www.cambridge.org/interchange/audioprogram/level1/interchange4_L1_audio_rss.xml",
+      {
+        "@href": "http://www.cambridge.org/interchange/audioprogram/level1/interchange4_L1_audio_rss.xml",
+        "@rel": "self"
+      }
+    ],
+    "description": "The Interchange Fourth Edition Class Level 1 prepared for your portable media player.",
+    "pubDate": "Thu, 08 Dec 2011 10:59:56 GMT",
+    "lastBuildDate": "Thu, 08 Dec 2011 10:59:56 GMT",
+    "language": "en",
+    "category": {
+      "@text": "Education",
+      "category": {
+        "@text": "Language Courses"
+      }
+    },
+    "subtitle": "The Interchange Fourth Edition Level 1 Class Audio prepared for your portable media player.",
+    "summary": "The Interchange Fourth Edition Level 1 Class Audio prepared for your portable media player.",
+    "owner": {
+      "name": "Cambridge University Press",
+      "email": "cstechsupport@cambridge.org"
+    },
+    "image": [
+      {
+        "@href": "http://www.cambridge.org/interchange/audioprogram/level1/sb1_cover.jpg"
+      },
+      {
+        "title": "Interchange Fourth Edition Level 1 Class Audio",
+        "link": "http://www.cambridge.org/interchange/audioprogram/level1/interchange4_L1_audio_rss.xml",
+        "url": "http://www.cambridge.org/interchange/audioprogram/level1/sb1_cover.jpg",
+        "width": "468",
+        "height": "600"
+      }
+    ],
+    "explicit": "no",
+    "item": [
+      {
+        "unit": "01",
+        "pg": "002",
+        "ex": "01 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit01_Pg002_Ex01_Conversation.mp3",
+        "@length": "373760"
+      },
+      {
+        "unit": "01",
+        "pg": "002",
+        "ex": "02 Speaking Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit01_Pg002_Ex02_Speaking_PtA.mp3",
+        "@length": "369664"
+      },
+      {
+        "unit": "01",
+        "pg": "003",
+        "ex": "03 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit01_Pg003_Ex03_Conversation_PtA.mp3",
+        "@length": "465920"
+      },
+      {
+        "unit": "01",
+        "pg": "003",
+        "ex": "03 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit01_Pg003_Ex03_Conversation_PtB.mp3",
+        "@length": "613376"
+      },
+      {
+        "unit": "01",
+        "pg": "003",
+        "ex": "04 Pronunciation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit01_Pg003_Ex04_Pronunciation.mp3",
+        "@length": "596992"
+      },
+      {
+        "unit": "01",
+        "pg": "003",
+        "ex": "05 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit01_Pg003_Ex05_GrammarFocus.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "01",
+        "pg": "004",
+        "ex": "05 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit01_Pg004_Ex05_GrammarFocus.mp3",
+        "@length": "841728"
+      },
+      {
+        "unit": "01",
+        "pg": "005",
+        "ex": "07 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit01_Pg005_Ex07_Conversation.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "01",
+        "pg": "005",
+        "ex": "08 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit01_Pg005_Ex08_GrammarFocus.mp3",
+        "@length": "1245184"
+      },
+      {
+        "unit": "01",
+        "pg": "006",
+        "ex": "10 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit01_Pg006_Ex10_Listening.mp3",
+        "@length": "742400"
+      },
+      {
+        "unit": "02",
+        "pg": "009",
+        "ex": "04 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit02_Pg009_Ex04_Conversation_PtA.mp3",
+        "@length": "1367040"
+      },
+      {
+        "unit": "02",
+        "pg": "009",
+        "ex": "04 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit02_Pg009_Ex04_Conversation_PtB.mp3",
+        "@length": "2679808"
+      },
+      {
+        "unit": "02",
+        "pg": "010",
+        "ex": "05 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit02_Pg010_Ex05_GrammarFocus.mp3",
+        "@length": "1065984"
+      },
+      {
+        "unit": "02",
+        "pg": "011",
+        "ex": "07 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit02_Pg011_Ex07_Conversation_PtA.mp3",
+        "@length": "711680"
+      },
+      {
+        "unit": "02",
+        "pg": "011",
+        "ex": "07 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit02_Pg011_Ex07_Conversation_PtB.mp3",
+        "@length": "1817600"
+      },
+      {
+        "unit": "02",
+        "pg": "011",
+        "ex": "08 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit02_Pg011_Ex08_Pronunciation_PtA.mp3",
+        "@length": "654336"
+      },
+      {
+        "unit": "02",
+        "pg": "011",
+        "ex": "08 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit02_Pg011_Ex08_Pronunciation_PtB.mp3",
+        "@length": "1708032"
+      },
+      {
+        "unit": "02",
+        "pg": "012",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit02_Pg012_Ex09_GrammarFocus.mp3",
+        "@length": "1689600"
+      },
+      {
+        "unit": "02",
+        "pg": "012",
+        "ex": "10 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit02_Pg012_Ex10_Listening_PtA.mp3",
+        "@length": "625664"
+      },
+      {
+        "unit": "01-02 PC",
+        "pg": "015",
+        "ex": "04 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit01-02PC_Pg015_Ex04_Listening_PtA.mp3",
+        "@length": "1095680"
+      },
+      {
+        "unit": "03",
+        "pg": "016",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit03_Pg016_Ex02_Conversation_PtA.mp3",
+        "@length": "333824"
+      },
+      {
+        "unit": "03",
+        "pg": "016",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit03_Pg016_Ex02_Conversation_PtB.mp3",
+        "@length": "246784"
+      },
+      {
+        "unit": "03",
+        "pg": "017",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit03_Pg017_Ex03_GrammarFocus.mp3",
+        "@length": "765952"
+      },
+      {
+        "unit": "03",
+        "pg": "018",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit03_Pg018_Ex04_Pronunciation_PtA.mp3",
+        "@length": "753664"
+      },
+      {
+        "unit": "03",
+        "pg": "018",
+        "ex": "06 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit03_Pg018_Ex06_Listening_PtA.mp3",
+        "@length": "680960"
+      },
+      {
+        "unit": "03",
+        "pg": "018",
+        "ex": "06 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit03_Pg018_Ex06_Listening_PtB.mp3",
+        "@length": "523264"
+      },
+      {
+        "unit": "03",
+        "pg": "019",
+        "ex": "09 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit03_Pg019_Ex09_Conversation_PtA.mp3",
+        "@length": "399360"
+      },
+      {
+        "unit": "03",
+        "pg": "019",
+        "ex": "09 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit03_Pg019_Ex09_Conversation_PtB.mp3",
+        "@length": "2922496"
+      },
+      {
+        "unit": "03",
+        "pg": "020",
+        "ex": "10 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit03_Pg020_Ex10_GrammarFocus.mp3",
+        "@length": "3530752"
+      },
+      {
+        "unit": "04",
+        "pg": "022",
+        "ex": "01 Snapshot",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit04_Pg022_Ex01_Snapshot.mp3",
+        "@length": "907264"
+      },
+      {
+        "unit": "04",
+        "pg": "023",
+        "ex": "03 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit04_Pg023_Ex03_Conversation_PtA.mp3",
+        "@length": "531456"
+      },
+      {
+        "unit": "04",
+        "pg": "023",
+        "ex": "03 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit04_Pg023_Ex03_Conversation_PtB.mp3",
+        "@length": "548864"
+      },
+      {
+        "unit": "04",
+        "pg": "023",
+        "ex": "04 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit04_Pg023_Ex04_GrammarFocus.mp3",
+        "@length": "1436672"
+      },
+      {
+        "unit": "04",
+        "pg": "024",
+        "ex": "05 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit04_Pg024_Ex05_Pronunciation_PtA.mp3",
+        "@length": "1502208"
+      },
+      {
+        "unit": "04",
+        "pg": "025",
+        "ex": "07 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit04_Pg025_Ex07_Listening_PtA.mp3",
+        "@length": "1295360"
+      },
+      {
+        "unit": "04",
+        "pg": "025",
+        "ex": "08 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit04_Pg025_Ex08_Conversation_PtA.mp3",
+        "@length": "852992"
+      },
+      {
+        "unit": "04",
+        "pg": "025",
+        "ex": "08 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit04_Pg025_Ex08_Conversation_PtB.mp3",
+        "@length": "576512"
+      },
+      {
+        "unit": "04",
+        "pg": "026",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit04_Pg026_Ex09_GrammarFocus.mp3",
+        "@length": "1458176"
+      },
+      {
+        "unit": "03-04 PC",
+        "pg": "028",
+        "ex": "01 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit03-04PC_Pg028_Ex01_Listening_PtA.mp3",
+        "@length": "734208"
+      },
+      {
+        "unit": "05",
+        "pg": "031",
+        "ex": "02 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit05_Pg031_Ex02_Listening.mp3",
+        "@length": "1233920"
+      },
+      {
+        "unit": "05",
+        "pg": "031",
+        "ex": "03 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit05_Pg031_Ex03_Conversation_PtA.mp3",
+        "@length": "540672"
+      },
+      {
+        "unit": "05",
+        "pg": "031",
+        "ex": "03 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit05_Pg031_Ex03_Conversation_PtB.mp3",
+        "@length": "324608"
+      },
+      {
+        "unit": "05",
+        "pg": "031",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit05_Pg031_Ex04_Pronunciation_PtA.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "05",
+        "pg": "032",
+        "ex": "05 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit05_Pg032_Ex05_GrammarFocus.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "05",
+        "pg": "033",
+        "ex": "09 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit05_Pg033_Ex09_Conversation_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "05",
+        "pg": "033",
+        "ex": "09 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit05_Pg033_Ex09_Conversation_PtB.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "05",
+        "pg": "034",
+        "ex": "10 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit05_Pg034_Ex10_GrammarFocus.mp3",
+        "@length": "373760"
+      },
+      {
+        "unit": "06",
+        "pg": "037",
+        "ex": "03 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit06_Pg037_Ex03_Conversation_PtA.mp3",
+        "@length": "369664"
+      },
+      {
+        "unit": "06",
+        "pg": "037",
+        "ex": "03 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit06_Pg037_Ex 03_Conversation_PtB.mp3",
+        "@length": "465920"
+      },
+      {
+        "unit": "06",
+        "pg": "037",
+        "ex": "04 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit06_Pg037_Ex04_GrammarFocusmp3",
+        "@length": "613376"
+      },
+      {
+        "unit": "06",
+        "pg": "038",
+        "ex": "05 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit06_Pg038_Ex05_Pronunciation_PtA.mp3",
+        "@length": "596992"
+      },
+      {
+        "unit": "06",
+        "pg": "038",
+        "ex": "07 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit06_Pg038_Ex07_Listening_PtA.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "06",
+        "pg": "038",
+        "ex": "07 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit06_Pg038_Ex07_Listening_PtB.mp3",
+        "@length": "841728"
+      },
+      {
+        "unit": "06",
+        "pg": "039",
+        "ex": "10 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit06_Pg039_Ex10_Conversation_PtA.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "06",
+        "pg": "039",
+        "ex": "10 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit06_Pg039_Ex10_Conversation_PtB.mp3",
+        "@length": "1245184"
+      },
+      {
+        "unit": "06",
+        "pg": "040",
+        "ex": "11 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit06_Pg040_Ex11_GrammarFocus.mp3",
+        "@length": "742400"
+      },
+      {
+        "unit": "06",
+        "pg": "040",
+        "ex": "12 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit06_Pg040_Ex12_Listening.mp3",
+        "@length": "1367040"
+      },
+      {
+        "unit": "05-06 PC",
+        "pg": "042",
+        "ex": "01 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit05-06PC_Pg042_Ex01_Listening_PtA.mp3",
+        "@length": "2679808"
+      },
+      {
+        "unit": "07",
+        "pg": "044",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit07_Pg044_Ex02_Conversation_PtA.mp3",
+        "@length": "1065984"
+      },
+      {
+        "unit": "07",
+        "pg": "044",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit07_Pg044_Ex02_Conversation_PtB.mp3",
+        "@length": "711680"
+      },
+      {
+        "unit": "07",
+        "pg": "045",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit07_Pg045_Ex03_GrammarFocus.mp3",
+        "@length": "1817600"
+      },
+      {
+        "unit": "07",
+        "pg": "045",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit07_Pg045_Ex04_Pronunciation_PtA.mp3",
+        "@length": "654336"
+      },
+      {
+        "unit": "07",
+        "pg": "046",
+        "ex": "07 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit07_Pg046_Ex07_Listening_PtA.mp3",
+        "@length": "1708032"
+      },
+      {
+        "unit": "07",
+        "pg": "046",
+        "ex": "07 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit07_Pg046_Ex07_Listening_PtB.mp3",
+        "@length": "1689600"
+      },
+      {
+        "unit": "07",
+        "pg": "047",
+        "ex": "09 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit07_Pg047_Ex09_Conversation_PtA.mp3",
+        "@length": "625664"
+      },
+      {
+        "unit": "07",
+        "pg": "047",
+        "ex": "09 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit07_Pg047_Ex09_Conversation_PtB.mp3",
+        "@length": "1095680"
+      },
+      {
+        "unit": "07",
+        "pg": "047",
+        "ex": "10 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit07_Pg047_Ex10_GrammarFocus.mp3",
+        "@length": "333824"
+      },
+      {
+        "unit": "07",
+        "pg": "048",
+        "ex": "13 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit07_Pg048_Ex13_Listening_PtA.mp3",
+        "@length": "246784"
+      },
+      {
+        "unit": "07",
+        "pg": "048",
+        "ex": "13 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit07_Pg048_Ex13_Listening_PtB.mp3",
+        "@length": "765952"
+      },
+      {
+        "unit": "08",
+        "pg": "050",
+        "ex": "02 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit08_Pg050_Ex02_Conversation.mp3",
+        "@length": "753664"
+      },
+      {
+        "unit": "08",
+        "pg": "051",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit08_Pg051_Ex03_GrammarFocus.mp3",
+        "@length": "680960"
+      },
+      {
+        "unit": "08",
+        "pg": "052",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit08_Pg052_Ex04_Pronunciation_PtA.mp3",
+        "@length": "523264"
+      },
+      {
+        "unit": "08",
+        "pg": "052",
+        "ex": "06 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit08_Pg052_Ex06_Listening_PtA.mp3",
+        "@length": "399360"
+      },
+      {
+        "unit": "08",
+        "pg": "053",
+        "ex": "08 Conversation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit08_Pg053_Ex08_Conversation.mp3",
+        "@length": "2922496"
+      },
+      {
+        "unit": "08",
+        "pg": "054",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit08_Pg054_Ex09_GrammarFocus.mp3",
+        "@length": "3530752"
+      },
+      {
+        "unit": "07-08 PC",
+        "pg": "056",
+        "ex": "01 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit07-08PC_Pg056_Ex01_Listening_PtA.mp3",
+        "@length": "907264"
+      },
+      {
+        "unit": "09",
+        "pg": "059",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit09_Pg059_Ex02_Conversation_PtA.mp3",
+        "@length": "531456"
+      },
+      {
+        "unit": "09",
+        "pg": "059",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit09_Pg059_Ex02_Conversation_PtB.mp3",
+        "@length": "548864"
+      },
+      {
+        "unit": "09",
+        "pg": "059",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit09_Pg059_Ex03_GrammarFocus.mp3",
+        "@length": "1436672"
+      },
+      {
+        "unit": "09",
+        "pg": "060",
+        "ex": "04 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit09_Pg060_Ex04_Listening_PtA.mp3",
+        "@length": "1502208"
+      },
+      {
+        "unit": "09",
+        "pg": "060",
+        "ex": "04 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit09_Pg060_Ex04_Listening_PtB.mp3",
+        "@length": "1295360"
+      },
+      {
+        "unit": "09",
+        "pg": "061",
+        "ex": "08 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit09_Pg061_Ex08_Conversation_PtA.mp3",
+        "@length": "852992"
+      },
+      {
+        "unit": "09",
+        "pg": "061",
+        "ex": "08 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit09_Pg061_Ex08_Conversation_PtB.mp3",
+        "@length": "576512"
+      },
+      {
+        "unit": "09",
+        "pg": "062",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit09_Pg062_Ex09_GrammarFocus.mp3",
+        "@length": "1458176"
+      },
+      {
+        "unit": "09",
+        "pg": "062",
+        "ex": "10 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit09_Pg062_Ex10_Pronunciation_PtA.mp3",
+        "@length": "734208"
+      },
+      {
+        "unit": "09",
+        "pg": "062",
+        "ex": "10 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit09_Pg062_Ex10_Pronunciation_PtB.mp3",
+        "@length": "1233920"
+      },
+      {
+        "unit": "10",
+        "pg": "064",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit10_Pg064_Ex02_Conversation_PtA.mp3",
+        "@length": "540672"
+      },
+      {
+        "unit": "10",
+        "pg": "064",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit10_Pg064_Ex02_Conversation_PtB.mp3",
+        "@length": "324608"
+      },
+      {
+        "unit": "10",
+        "pg": "065",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit10_Pg065_Ex03_GrammarFocus.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "10",
+        "pg": "066",
+        "ex": "04 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit10_Pg066_Ex04_Conversation_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "10",
+        "pg": "066",
+        "ex": "04 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit10_Pg066_Ex04_Conversation_PtB.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "10",
+        "pg": "066",
+        "ex": "05 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit10_Pg066_Ex05_GrammarFocus.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "10",
+        "pg": "067",
+        "ex": "05 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit10_Pg067_Ex05_GrammarFocus.mp3",
+        "@length": "373760"
+      },
+      {
+        "unit": "10",
+        "pg": "067",
+        "ex": "06 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit10_Pg067_Ex06_Pronunciation_PtA.mp3",
+        "@length": "369664"
+      },
+      {
+        "unit": "10",
+        "pg": "067",
+        "ex": "07 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit10_Pg067_Ex07_Listening.mp3",
+        "@length": "465920"
+      },
+      {
+        "unit": "09-10 PC",
+        "pg": "071",
+        "ex": "04 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit09-10PC_Pg071_Ex04_Listening_PtA.mp3",
+        "@length": "613376"
+      },
+      {
+        "unit": "11",
+        "pg": "072",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit11_Pg072_Ex02_Conversation_PtA.mp3",
+        "@length": "596992"
+      },
+      {
+        "unit": "11",
+        "pg": "072",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit11_Pg072_Ex02_Conversation_PtB.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "11",
+        "pg": "073",
+        "ex": "03 Grammar Focus Adverbs",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit11_Pg073_Ex03_GrammarFocus_Adverbs.mp3",
+        "@length": "841728"
+      },
+      {
+        "unit": "11",
+        "pg": "073",
+        "ex": "03 Grammar Focus Conjuctions",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit11_Pg073_Ex03_GrammarFocus_Conjunctions.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "11",
+        "pg": "074",
+        "ex": "04 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit11_Pg074_Ex04_Listening.mp3",
+        "@length": "1245184"
+      },
+      {
+        "unit": "11",
+        "pg": "075",
+        "ex": "07 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit11_Pg075_Ex07_Conversation_PtA.mp3",
+        "@length": "742400"
+      },
+      {
+        "unit": "11",
+        "pg": "075",
+        "ex": "07 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit11_Pg075_Ex07_Conversation_PtB.mp3",
+        "@length": "1367040"
+      },
+      {
+        "unit": "11",
+        "pg": "075",
+        "ex": "08 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit11_Pg075_Ex08_GrammarFocus.mp3",
+        "@length": "2679808"
+      },
+      {
+        "unit": "11",
+        "pg": "076",
+        "ex": "09 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit11_Pg076_Ex09_Pronunciation_PtA.mp3",
+        "@length": "1065984"
+      },
+      {
+        "unit": "11",
+        "pg": "076",
+        "ex": "09 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit11_Pg076_Ex09_Pronunciation_PtB.mp3",
+        "@length": "711680"
+      },
+      {
+        "unit": "11",
+        "pg": "076",
+        "ex": "10 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit11_Pg076_Ex10_Listening_PtA.mp3",
+        "@length": "1817600"
+      },
+      {
+        "unit": "11",
+        "pg": "076",
+        "ex": "10 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit11_Pg076_Ex10_Listening_PtB.mp3",
+        "@length": "654336"
+      },
+      {
+        "unit": "12",
+        "pg": "078",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit12_Pg078_Ex02_Conversation_PtA.mp3",
+        "@length": "1708032"
+      },
+      {
+        "unit": "12",
+        "pg": "078",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit12_Pg078_Ex02_Conversation_PtB.mp3",
+        "@length": "1689600"
+      },
+      {
+        "unit": "12",
+        "pg": "079",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit12_Pg079_Ex03_GrammarFocus.mp3",
+        "@length": "625664"
+      },
+      {
+        "unit": "12",
+        "pg": "079",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit12_Pg079_Ex04_Pronunciation_PtA.mp3",
+        "@length": "1095680"
+      },
+      {
+        "unit": "12",
+        "pg": "081",
+        "ex": "08 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit12_Pg081_Ex08_Conversation_PtA.mp3",
+        "@length": "333824"
+      },
+      {
+        "unit": "12",
+        "pg": "081",
+        "ex": "08 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit12_Pg081_Ex08_Conversation_PtB.mp3",
+        "@length": "246784"
+      },
+      {
+        "unit": "12",
+        "pg": "081",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit12_Pg081_Ex09_GrammarFocus.mp3",
+        "@length": "765952"
+      },
+      {
+        "unit": "12",
+        "pg": "082",
+        "ex": "10 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit12_Pg082_Ex10_Listening_PtA.mp3",
+        "@length": "753664"
+      },
+      {
+        "unit": "12",
+        "pg": "082",
+        "ex": "10 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit12_Pg082_Ex10_Listening_PtB.mp3",
+        "@length": "680960"
+      },
+      {
+        "unit": "11-12 PC",
+        "pg": "084",
+        "ex": "01 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit11-12PC_Pg084_Ex01_Listening_PtA.mp3",
+        "@length": "523264"
+      },
+      {
+        "unit": "13",
+        "pg": "086",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit13_Pg086_Ex02_Conversation_PtA.mp3",
+        "@length": "399360"
+      },
+      {
+        "unit": "13",
+        "pg": "086",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit13_Pg086_Ex02_Conversation_PtB.mp3",
+        "@length": "2922496"
+      },
+      {
+        "unit": "13",
+        "pg": "087",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit13_Pg087_Ex03_GrammarFocus.mp3",
+        "@length": "3530752"
+      },
+      {
+        "unit": "13",
+        "pg": "088",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit13_Pg088_Ex04_Pronunciation_PtA.mp3",
+        "@length": "907264"
+      },
+      {
+        "unit": "13",
+        "pg": "088",
+        "ex": "06 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit13_Pg088_Ex06_Conversation_PtA.mp3",
+        "@length": "531456"
+      },
+      {
+        "unit": "13",
+        "pg": "088",
+        "ex": "06 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit13_Pg088_Ex06_Conversation_PtB.mp3",
+        "@length": "548864"
+      },
+      {
+        "unit": "13",
+        "pg": "089",
+        "ex": "07 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit13_Pg089_Ex07_GrammarFocus.mp3",
+        "@length": "1436672"
+      },
+      {
+        "unit": "13",
+        "pg": "090",
+        "ex": "09 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit13_Pg090_Ex09_Listening_PtA.mp3",
+        "@length": "1502208"
+      },
+      {
+        "unit": "13",
+        "pg": "090",
+        "ex": "09 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit13_Pg090_Ex09_Listening_PtB.mp3",
+        "@length": "1295360"
+      },
+      {
+        "unit": "14",
+        "pg": "093",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit14_Pg093_Ex02_Conversation_PtA.mp3",
+        "@length": "852992"
+      },
+      {
+        "unit": "14",
+        "pg": "093",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit14_Pg093_Ex02_Conversation_PtB.mp3",
+        "@length": "576512"
+      },
+      {
+        "unit": "14",
+        "pg": "093",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit14_Pg093_Ex03_GrammarFocus.mp3",
+        "@length": "1458176"
+      },
+      {
+        "unit": "14",
+        "pg": "094",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit14_Pg094_Ex04_Pronunciation_PtA.mp3",
+        "@length": "734208"
+      },
+      {
+        "unit": "14",
+        "pg": "094",
+        "ex": "06 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit14_Pg094_Ex06_Listening.mp3",
+        "@length": "1233920"
+      },
+      {
+        "unit": "14",
+        "pg": "095",
+        "ex": "09 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit14_Pg095_Ex09_Conversation_PtA.mp3",
+        "@length": "540672"
+      },
+      {
+        "unit": "14",
+        "pg": "095",
+        "ex": "09 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit14_Pg095_Ex09_Conversation_PtB.mp3",
+        "@length": "324608"
+      },
+      {
+        "unit": "14",
+        "pg": "096",
+        "ex": "10 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit14_Pg096_Ex10_GrammarFocus.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "13-14 PC",
+        "pg": "098",
+        "ex": "02 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit13-14PC_Pg098_Ex02_Listening.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "15",
+        "pg": "100",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit15_Pg100_Ex02_Conversation_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "15",
+        "pg": "100",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit15_Pg100_Ex02_Conversation_PtB.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "15",
+        "pg": "101",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit15_Pg101_Ex03_GrammarFocus.mp3",
+        "@length": "373760"
+      },
+      {
+        "unit": "15",
+        "pg": "102",
+        "ex": "07 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit15_Pg102_Ex07_Conversation_PtA.mp3",
+        "@length": "369664"
+      },
+      {
+        "unit": "15",
+        "pg": "102",
+        "ex": "07 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit15_Pg102_Ex07_Conversation_PtB.mp3",
+        "@length": "465920"
+      },
+      {
+        "unit": "15",
+        "pg": "103",
+        "ex": "08 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit15_Pg103_Ex08_GrammarFocus.mp3",
+        "@length": "613376"
+      },
+      {
+        "unit": "15",
+        "pg": "104",
+        "ex": "10 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit15_Pg104_Ex10_Pronunciation_PtA.mp3",
+        "@length": "596992"
+      },
+      {
+        "unit": "15",
+        "pg": "104",
+        "ex": "11 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit15_Pg104_Ex 11_Listening.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "16",
+        "pg": "106",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit16_Pg106_Ex02_Conversation_PtA.mp3",
+        "@length": "841728"
+      },
+      {
+        "unit": "16",
+        "pg": "106",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit16_Pg106_Ex02_Conversation_PtB.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "16",
+        "pg": "107",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit16_Pg107_Ex03_GrammarFocus.mp3",
+        "@length": "1245184"
+      },
+      {
+        "unit": "16",
+        "pg": "107",
+        "ex": "04 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit16_Pg107_Ex04_Listening.mp3",
+        "@length": "742400"
+      },
+      {
+        "unit": "16",
+        "pg": "108",
+        "ex": "06 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit16_Pg108_Ex06_Conversation_PtA.mp3",
+        "@length": "1367040"
+      },
+      {
+        "unit": "16",
+        "pg": "108",
+        "ex": "06 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit16_Pg108_Ex06_Conversation_PtB.mp3",
+        "@length": "2679808"
+      },
+      {
+        "unit": "16",
+        "pg": "109",
+        "ex": "07 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit16_Pg109_Ex07_GrammarFocus.mp3",
+        "@length": "1065984"
+      },
+      {
+        "unit": "16",
+        "pg": "109",
+        "ex": "08 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit16_Pg109_Ex08_Pronunciation_PtA.mp3",
+        "@length": "711680"
+      },
+      {
+        "unit": "16",
+        "pg": "109",
+        "ex": "08 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit16_Pg109_Ex08_Pronunciation_PtB.mp3",
+        "@length": "1817600"
+      },
+      {
+        "unit": "15-16 PC",
+        "pg": "113",
+        "ex": "03 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level1/Interchange4thEd_ClassAudio1_Unit15-16PC_Pg113_Ex03_Listening.mp3",
+        "@length": "654336"
+      }
+    ]
+  },
+  "levelTwo": {
+    "title": "Interchange Fourth Edition Class Level 2",
+    "link": [
+      "http://www.cambridge.org/interchange/audioprogram/level2/interchange4_L2_audo_rss.xml",
+      {
+        "@href": "http://www.cambridge.org/interchange/audioprogram/level2/interchange4_L2_audo_rss.xml",
+        "@rel": "self"
+      }
+    ],
+    "description": "The Interchange Fourth Edition Class Level 2, prepared for your portable media player.",
+    "pubDate": "Thu, 08 Dec 2011 10:59:56 GMT",
+    "lastBuildDate": "Thu, 08 Dec 2011 10:59:56 GMT",
+    "language": "en",
+    "category": {
+      "@text": "Education",
+      "category": {
+        "@text": "Language Courses"
+      }
+    },
+    "subtitle": "The Interchange Fourth Edition Level 2 Class Audio prepared for your portable media player.",
+    "summary": "The Interchange Fourth Edition Level 2 Class Audio prepared for your portable media player.",
+    "owner": {
+      "name": "Cambridge University Press",
+      "email": "cstechsupport@cambridge.org"
+    },
+    "image": [
+      {
+        "@href": "http://www.cambridge.org/interchange/audioprogram/level2/sb2_cover.jpg"
+      },
+      {
+        "title": "Interchange Fourth Edition Level 2 Class Audio",
+        "link": "http://www.cambridge.org/interchange/audioprogram/level2/interchange4_L2_audo_rss.xml",
+        "url": "http://www.cambridge.org/interchange/audioprogram/level2/sb2_cover.jpg",
+        "width": "468",
+        "height": "600"
+      }
+    ],
+    "explicit": "no",
+    "item": [
+      {
+        "unit": "01",
+        "pg": "002",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit01_Pg002_Ex02_Conversation_PtA.mp3",
+        "@length": "373760"
+      },
+      {
+        "unit": "01",
+        "pg": "002",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit01_Pg002_Ex02_Conversation_PtB.mp3",
+        "@length": "369664"
+      },
+      {
+        "unit": "01",
+        "pg": "003",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit01_Pg003_Ex03_GrammarFocus.mp3",
+        "@length": "465920"
+      },
+      {
+        "unit": "01",
+        "pg": "003",
+        "ex": "04 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit01_Pg003_Ex04_Listening_PtA.mp3",
+        "@length": "613376"
+      },
+      {
+        "unit": "01",
+        "pg": "003",
+        "ex": "04 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit01_Pg003_Ex04_Listening_PtB.mp3",
+        "@length": "596992"
+      },
+      {
+        "unit": "01",
+        "pg": "005",
+        "ex": "07 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit01_Pg005_Ex07_Perspectives_PtA.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "01",
+        "pg": "005",
+        "ex": "08 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit01_Pg005_Ex08_GrammarFocus.mp3",
+        "@length": "841728"
+      },
+      {
+        "unit": "01",
+        "pg": "006",
+        "ex": "09 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit01_Pg006_Ex09_Pronunciation_PtA.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "02",
+        "pg": "008",
+        "ex": "02 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit02_Pg008_Ex02_Perspectives_PtA.mp3",
+        "@length": "1245184"
+      },
+      {
+        "unit": "02",
+        "pg": "009",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit02_Pg009_Ex03_GrammarFocus.mp3",
+        "@length": "742400"
+      },
+      {
+        "unit": "02",
+        "pg": "009",
+        "ex": "04 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit02_Pg009_Ex04_Listening_PtA.mp3",
+        "@length": "1367040"
+      },
+      {
+        "unit": "02",
+        "pg": "009",
+        "ex": "04 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit02_Pg009_Ex04_Listening_PtB.mp3",
+        "@length": "2679808"
+      },
+      {
+        "unit": "02",
+        "pg": "011",
+        "ex": "08 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit02_Pg011_Ex08_Conversation_PtA.mp3",
+        "@length": "1065984"
+      },
+      {
+        "unit": "02",
+        "pg": "011",
+        "ex": "08 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit02_Pg011_Ex08_Conversation_PtB.mp3",
+        "@length": "711680"
+      },
+      {
+        "unit": "02",
+        "pg": "011",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit02_Pg011_Ex09_GrammarFocus.mp3",
+        "@length": "1817600"
+      },
+      {
+        "unit": "02",
+        "pg": "012",
+        "ex": "10 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit02_Pg012_Ex10_Pronunciation_PtA.mp3",
+        "@length": "654336"
+      },
+      {
+        "unit": "02",
+        "pg": "012",
+        "ex": "10 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit02_Pg012_Ex10_Pronunciation_PtB.mp3",
+        "@length": "1708032"
+      },
+      {
+        "unit": "01-02 PC",
+        "pg": "014",
+        "ex": "01 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit01-02PC_Pg014_Ex01_Listening_PtA.mp3",
+        "@length": "1689600"
+      },
+      {
+        "unit": "03",
+        "pg": "016",
+        "ex": "02 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit03_Pg016_Ex02_Perspectives_PtA.mp3",
+        "@length": "625664"
+      },
+      {
+        "unit": "03",
+        "pg": "017",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit03_Pg017_Ex03_GrammarFocus.mp3",
+        "@length": "1095680"
+      },
+      {
+        "unit": "03",
+        "pg": "018",
+        "ex": "04 Pronunciation_PtA",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit03_Pg018_Ex04_Pronunciation_PtA.mp3",
+        "@length": "333824"
+      },
+      {
+        "unit": "03",
+        "pg": "018",
+        "ex": "05 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit03_Pg018_Ex05_Listening_PtA.mp3",
+        "@length": "246784"
+      },
+      {
+        "unit": "03",
+        "pg": "018",
+        "ex": "05 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit03_Pg018_Ex05_Listening_PtB.mp3",
+        "@length": "765952"
+      },
+      {
+        "unit": "03",
+        "pg": "019",
+        "ex": "08 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit03_Pg019_Ex08_Conversation_PtA.mp3",
+        "@length": "753664"
+      },
+      {
+        "unit": "03",
+        "pg": "019",
+        "ex": "08 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit03_Pg019_Ex08_Conversation_PtB.mp3",
+        "@length": "680960"
+      },
+      {
+        "unit": "03",
+        "pg": "020",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit03_Pg020_Ex09_GrammarFocus.mp3",
+        "@length": "523264"
+      },
+      {
+        "unit": "04",
+        "pg": "022",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit04_Pg022_Ex02_Conversation_PtA.mp3",
+        "@length": "399360"
+      },
+      {
+        "unit": "04",
+        "pg": "022",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit04_Pg022_Ex02_Conversation_PtB.mp3",
+        "@length": "2922496"
+      },
+      {
+        "unit": "04",
+        "pg": "023",
+        "ex": "03 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit04_Pg023_Ex03_Pronunciation_PtA.mp3",
+        "@length": "3530752"
+      },
+      {
+        "unit": "04",
+        "pg": "023",
+        "ex": "04 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit04_Pg023_Ex04_GrammarFocus.mp3",
+        "@length": "907264"
+      },
+      {
+        "unit": "04",
+        "pg": "023",
+        "ex": "05 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit04_Pg023_Ex05_Listening.mp3",
+        "@length": "531456"
+      },
+      {
+        "unit": "04",
+        "pg": "025",
+        "ex": "09 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit04_Pg025_Ex09_Perspectives_PtA.mp3",
+        "@length": "548864"
+      },
+      {
+        "unit": "04",
+        "pg": "025",
+        "ex": "10 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit04_Pg025_Ex10_GrammarFocus.mp3",
+        "@length": "1436672"
+      },
+      {
+        "unit": "04",
+        "pg": "026",
+        "ex": "11 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit04_Pg026_Ex11_Listening_PtA.mp3",
+        "@length": "1502208"
+      },
+      {
+        "unit": "03-04 PC",
+        "pg": "028",
+        "ex": "02 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit03-04PC_Pg028_Ex02_Listening_PtA.mp3",
+        "@length": "1295360"
+      },
+      {
+        "unit": "03-04 PC",
+        "pg": "028",
+        "ex": "02 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit03-04PC_Pg028_Ex02_Listening_PtB.mp3",
+        "@length": "852992"
+      },
+      {
+        "unit": "05",
+        "pg": "030",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit05_Pg030_Ex02_Conversation_PtA.mp3",
+        "@length": "576512"
+      },
+      {
+        "unit": "05",
+        "pg": "030",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit05_Pg030_Ex02_Conversation_PtB.mp3",
+        "@length": "1458176"
+      },
+      {
+        "unit": "05",
+        "pg": "031",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit05_Pg031_Ex03_GrammarFocus.mp3",
+        "@length": "734208"
+      },
+      {
+        "unit": "05",
+        "pg": "032",
+        "ex": "06 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit05_Pg032_Ex06_Perspectives_PtA.mp3",
+        "@length": "1233920"
+      },
+      {
+        "unit": "05",
+        "pg": "033",
+        "ex": "07 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit05_Pg033_Ex07_GrammarFocus.mp3",
+        "@length": "540672"
+      },
+      {
+        "unit": "05",
+        "pg": "033",
+        "ex": "08 Pronunciation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit05_Pg033_Ex08_Pronunciation.mp3",
+        "@length": "324608"
+      },
+      {
+        "unit": "05",
+        "pg": "034",
+        "ex": "09 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit05_Pg034_Ex09_Listening_PtA.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "05",
+        "pg": "034",
+        "ex": "09 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit05_Pg034_Ex09_Listening_PtB.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "06",
+        "pg": "036",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit06_Pg036_Ex02_Conversation_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "06",
+        "pg": "036",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit06_Pg036_Ex02_Conversation_PtB.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "06",
+        "pg": "037",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit06_Pg037_Ex03_GrammarFocus.mp3",
+        "@length": "373760"
+      },
+      {
+        "unit": "06",
+        "pg": "037",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit06_Pg037_Ex04_Pronunciation_PtA.mp3",
+        "@length": "369664"
+      },
+      {
+        "unit": "06",
+        "pg": "038",
+        "ex": "06 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit06_Pg038_Ex06_Listening_PtA.mp3",
+        "@length": "465920"
+      },
+      {
+        "unit": "06",
+        "pg": "038",
+        "ex": "06 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit06_Pg038_Ex06_Listening_PtB.mp3",
+        "@length": "613376"
+      },
+      {
+        "unit": "06",
+        "pg": "039",
+        "ex": "07 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit06_Pg039_Ex07_Perspectives_PtA.mp3",
+        "@length": "596992"
+      },
+      {
+        "unit": "06",
+        "pg": "039",
+        "ex": "08 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit06_Pg039_Ex08_GrammarFocus.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "05-06 PC",
+        "pg": "042",
+        "ex": "01 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit05-06PC_Pg042_Ex01_Listening_PtA.mp3",
+        "@length": "841728"
+      },
+      {
+        "unit": "05-06 PC",
+        "pg": "042",
+        "ex": "01 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit05-06PC_Pg042_Ex01_Listening_PtB.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "07",
+        "pg": "044",
+        "ex": "02 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit07_Pg044_Ex02_Perspectives_PtA.mp3",
+        "@length": "1245184"
+      },
+      {
+        "unit": "07",
+        "pg": "045",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit07_Pg045_Ex03_GrammarFocus.mp3",
+        "@length": "742400"
+      },
+      {
+        "unit": "07",
+        "pg": "045",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit07_Pg045_Ex04_Pronunciation_PtA.mp3",
+        "@length": "1367040"
+      },
+      {
+        "unit": "07",
+        "pg": "045",
+        "ex": "04 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit07_Pg045_Ex04_Pronunciation_PtB.mp3",
+        "@length": "2679808"
+      },
+      {
+        "unit": "07",
+        "pg": "046",
+        "ex": "06 Listening  Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit07_Pg046_Ex06_Listening_PtA.mp3",
+        "@length": "1065984"
+      },
+      {
+        "unit": "07",
+        "pg": "046",
+        "ex": "06 Listening  Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit07_Pg046_Ex06_Listening_PtB.mp3",
+        "@length": "711680"
+      },
+      {
+        "unit": "07",
+        "pg": "047",
+        "ex": "07 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit07_Pg047_Ex07_Conversation_PtA.mp3",
+        "@length": "1817600"
+      },
+      {
+        "unit": "07",
+        "pg": "047",
+        "ex": "07 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit07_Pg047_Ex07_Conversation_PtB.mp3",
+        "@length": "654336"
+      },
+      {
+        "unit": "07",
+        "pg": "047",
+        "ex": "08 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit07_Pg047_Ex08_GrammarFocus.mp3",
+        "@length": "1708032"
+      },
+      {
+        "unit": "07",
+        "pg": "048",
+        "ex": "09 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit07_Pg048_Ex09_Listening_PtA.mp3",
+        "@length": "1689600"
+      },
+      {
+        "unit": "07",
+        "pg": "048",
+        "ex": "09 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit07_Pg048_Ex09_Listening_PtB.mp3",
+        "@length": "625664"
+      },
+      {
+        "unit": "08",
+        "pg": "051",
+        "ex": "03 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit08_Pg051_Ex03_Perspectives_PtA.mp3",
+        "@length": "1095680"
+      },
+      {
+        "unit": "08",
+        "pg": "051",
+        "ex": "04 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit08_Pg051_Ex04_GrammarFocus.mp3",
+        "@length": "333824"
+      },
+      {
+        "unit": "08",
+        "pg": "052",
+        "ex": "05 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit08_Pg052_Ex05_Listening_PtA.mp3",
+        "@length": "246784"
+      },
+      {
+        "unit": "08",
+        "pg": "052",
+        "ex": "05 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit08_Pg052_Ex05_Listening_PtB.mp3",
+        "@length": "765952"
+      },
+      {
+        "unit": "08",
+        "pg": "053",
+        "ex": "08 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit08_Pg053_Ex08_Conversation_PtA.mp3",
+        "@length": "753664"
+      },
+      {
+        "unit": "08",
+        "pg": "053",
+        "ex": "08 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit08_Pg053_Ex08_Conversation_PtB.mp3",
+        "@length": "680960"
+      },
+      {
+        "unit": "08",
+        "pg": "053",
+        "ex": "09 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit08_Pg053_Ex09_Pronunciation_PtA.mp3",
+        "@length": "523264"
+      },
+      {
+        "unit": "08",
+        "pg": "053",
+        "ex": "09 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit08_Pg053_Ex09_Pronunciation_PtB.mp3",
+        "@length": "399360"
+      },
+      {
+        "unit": "08",
+        "pg": "054",
+        "ex": "10 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit08_Pg054_Ex10_GrammarFocus.mp3",
+        "@length": "2922496"
+      },
+      {
+        "unit": "07-08 PC",
+        "pg": "057",
+        "ex": "04 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit07-08PC_Pg057_Ex04_Listening_PtA.mp3",
+        "@length": "3530752"
+      },
+      {
+        "unit": "07-08 PC",
+        "pg": "057",
+        "ex": "04 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit07-08PC_Pg057_Ex04_Listening_PtB.mp3",
+        "@length": "907264"
+      },
+      {
+        "unit": "09",
+        "pg": "058",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit09_Pg058_Ex02_Conversation_PtA.mp3",
+        "@length": "531456"
+      },
+      {
+        "unit": "09",
+        "pg": "058",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit09_Pg058_Ex02_Conversation_PtB.mp3",
+        "@length": "548864"
+      },
+      {
+        "unit": "09",
+        "pg": "059",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit09_Pg059_Ex03_GrammarFocus.mp3",
+        "@length": "1436672"
+      },
+      {
+        "unit": "09",
+        "pg": "059",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit09_Pg059_Ex04_Pronunciation_PtA.mp3",
+        "@length": "1502208"
+      },
+      {
+        "unit": "09",
+        "pg": "060",
+        "ex": "05 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit09_Pg060_Ex05_Listening_PtA.mp3",
+        "@length": "1295360"
+      },
+      {
+        "unit": "09",
+        "pg": "060",
+        "ex": "05 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit09_Pg060_Ex05_Listening_PtB.mp3",
+        "@length": "852992"
+      },
+      {
+        "unit": "09",
+        "pg": "061",
+        "ex": "08 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit09_Pg061_Ex08_Perspectives_PtA.mp3",
+        "@length": "576512"
+      },
+      {
+        "unit": "09",
+        "pg": "061",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit09_Pg061_Ex09_GrammarFocus.mp3",
+        "@length": "1458176"
+      },
+      {
+        "unit": "10",
+        "pg": "064",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit10_Pg064_Ex02_Conversation_PtA.mp3",
+        "@length": "734208"
+      },
+      {
+        "unit": "10",
+        "pg": "064",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit10_Pg064_Ex02_Conversation_PtB.mp3",
+        "@length": "1233920"
+      },
+      {
+        "unit": "10",
+        "pg": "065",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit10_Pg065_Ex03_GrammarFocus.mp3",
+        "@length": "540672"
+      },
+      {
+        "unit": "10",
+        "pg": "065",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit10_Pg065_Ex04_Pronunciation_PtA.mp3",
+        "@length": "324608"
+      },
+      {
+        "unit": "10",
+        "pg": "066",
+        "ex": "06 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit10_Pg066_Ex06_Listening_PtA.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "10",
+        "pg": "066",
+        "ex": "06 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit10_Pg066_Ex06_Listening_PtB.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "10",
+        "pg": "067",
+        "ex": "08 Word Power Pt C",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit10_Pg067_Ex08_WordPower_PtC.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "10",
+        "pg": "067",
+        "ex": "09 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit10_Pg067_Ex09_Perspectives_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "10",
+        "pg": "068",
+        "ex": "10 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit10_Pg068_Ex10_GrammarFocus.mp3",
+        "@length": "373760"
+      },
+      {
+        "unit": "09-10 PC",
+        "pg": "071",
+        "ex": "03 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit09-10PC_Pg071_Ex03_Listening_PtA.mp3",
+        "@length": "369664"
+      },
+      {
+        "unit": "09-10 PC",
+        "pg": "071",
+        "ex": "03 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit09-10PC_Pg071_Ex03_Listening_PtB.mp3",
+        "@length": "465920"
+      },
+      {
+        "unit": "11",
+        "pg": "072",
+        "ex": "02 Perspectives Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit11_Pg072_Ex02_Perspectives_PtB.mp3",
+        "@length": "613376"
+      },
+      {
+        "unit": "11",
+        "pg": "073",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit11_Pg073_Ex03_GrammarFocus.mp3",
+        "@length": "596992"
+      },
+      {
+        "unit": "11",
+        "pg": "074",
+        "ex": "05 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit11_Pg074_Ex05_Pronunciation_PtA.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "11",
+        "pg": "074",
+        "ex": "05 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit11_Pg074_Ex05_Pronunciation_PtB.mp3",
+        "@length": "841728"
+      },
+      {
+        "unit": "11",
+        "pg": "074",
+        "ex": "06 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit11_Pg074_Ex06_Listening.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "11",
+        "pg": "075",
+        "ex": "08 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit11_Pg075_Ex08_Conversation_PtA.mp3",
+        "@length": "1245184"
+      },
+      {
+        "unit": "11",
+        "pg": "075",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit11_Pg075_Ex09_GrammarFocus.mp3",
+        "@length": "742400"
+      },
+      {
+        "unit": "11",
+        "pg": "076",
+        "ex": "10 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit11_Pg076_Ex10_Listening_PtA.mp3",
+        "@length": "1367040"
+      },
+      {
+        "unit": "11",
+        "pg": "076",
+        "ex": "10 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit11_Pg076_Ex10_Listening_PtB.mp3",
+        "@length": "2679808"
+      },
+      {
+        "unit": "12",
+        "pg": "078",
+        "ex": "02 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit12_Pg078_Ex02_Perspectives_PtA.mp3",
+        "@length": "1065984"
+      },
+      {
+        "unit": "12",
+        "pg": "079",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit12_Pg079_Ex03_GrammarFocus.mp3",
+        "@length": "711680"
+      },
+      {
+        "unit": "12",
+        "pg": "080",
+        "ex": "04 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit12_Pg080_Ex04_Listening_PtA.mp3",
+        "@length": "1817600"
+      },
+      {
+        "unit": "12",
+        "pg": "080",
+        "ex": "04 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit12_Pg080_Ex04_Listening_PtB.mp3",
+        "@length": "654336"
+      },
+      {
+        "unit": "12",
+        "pg": "081",
+        "ex": "07 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit12_Pg081_Ex07_Conversation_PtA.mp3",
+        "@length": "1708032"
+      },
+      {
+        "unit": "12",
+        "pg": "081",
+        "ex": "07 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit12_Pg081_Ex07_Conversation_PtB.mp3",
+        "@length": "1689600"
+      },
+      {
+        "unit": "12",
+        "pg": "081",
+        "ex": "08 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit12_Pg081_Ex08_GrammarFocus.mp3",
+        "@length": "625664"
+      },
+      {
+        "unit": "12",
+        "pg": "082",
+        "ex": "09 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit12_Pg082_Ex09_Pronunciation_PtA.mp3",
+        "@length": "1095680"
+      },
+      {
+        "unit": "12",
+        "pg": "082",
+        "ex": "09 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit12_Pg082_Ex09_Pronunciation_PtB.mp3",
+        "@length": "333824"
+      },
+      {
+        "unit": "11-12 PC",
+        "pg": "084",
+        "ex": "02 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit11-12PC_Pg084_Ex02_Listening_PtA.mp3",
+        "@length": "246784"
+      },
+      {
+        "unit": "11-12 PC",
+        "pg": "084",
+        "ex": "02 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit11-12PC_Pg084_Ex02_Listening_PtB.mp3",
+        "@length": "765952"
+      },
+      {
+        "unit": "13",
+        "pg": "086",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit13_Pg086_Ex02_Conversation_PtA.mp3",
+        "@length": "753664"
+      },
+      {
+        "unit": "13",
+        "pg": "086",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit13_Pg086_Ex02_Conversation_PtB.mp3",
+        "@length": "680960"
+      },
+      {
+        "unit": "13",
+        "pg": "087",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit13_Pg087_Ex03_GrammarFocus.mp3",
+        "@length": "523264"
+      },
+      {
+        "unit": "13",
+        "pg": "088",
+        "ex": "05 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit13_Pg088_Ex05_Listening_PtA.mp3",
+        "@length": "399360"
+      },
+      {
+        "unit": "13",
+        "pg": "088",
+        "ex": "05 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit13_Pg088_Ex05_Listening_PtB.mp3",
+        "@length": "2922496"
+      },
+      {
+        "unit": "13",
+        "pg": "088",
+        "ex": "06 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit13_Pg088_Ex06_Pronunciation_PtA.mp3",
+        "@length": "3530752"
+      },
+      {
+        "unit": "13",
+        "pg": "089",
+        "ex": "08 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit13_Pg089_Ex08_Perspectives_PtA.mp3",
+        "@length": "907264"
+      },
+      {
+        "unit": "13",
+        "pg": "089",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit13_Pg089_Ex09_GrammarFocus.mp3",
+        "@length": "531456"
+      },
+      {
+        "unit": "13",
+        "pg": "090",
+        "ex": "12 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit13_Pg090_Ex12_Listening_PtA.mp3",
+        "@length": "548864"
+      },
+      {
+        "unit": "13",
+        "pg": "090",
+        "ex": "12 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit13_Pg090_Ex12_Listening_PtB.mp3",
+        "@length": "1436672"
+      },
+      {
+        "unit": "14",
+        "pg": "093",
+        "ex": "03 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit14_Pg093_Ex03_Conversation_PtA.mp3",
+        "@length": "1502208"
+      },
+      {
+        "unit": "14",
+        "pg": "093",
+        "ex": "03 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit14_Pg093_Ex03_Conversation_PtB.mp3",
+        "@length": "1295360"
+      },
+      {
+        "unit": "14",
+        "pg": "093",
+        "ex": "04 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit14_Pg093_Ex04_GrammarFocus.mp3",
+        "@length": "852992"
+      },
+      {
+        "unit": "14",
+        "pg": "094",
+        "ex": "06 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit14_Pg094_Ex06_Pronunciation_PtA.mp3",
+        "@length": "576512"
+      },
+      {
+        "unit": "14",
+        "pg": "095",
+        "ex": "08 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit14_Pg095_Ex08_Perspectives_PtA.mp3",
+        "@length": "1458176"
+      },
+      {
+        "unit": "14",
+        "pg": "095",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit14_Pg095_Ex09_GrammarFocus.mp3",
+        "@length": "734208"
+      },
+      {
+        "unit": "14",
+        "pg": "096",
+        "ex": "11 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit14_Pg096_Ex11_Listening_PtA.mp3",
+        "@length": "1233920"
+      },
+      {
+        "unit": "14",
+        "pg": "096",
+        "ex": "11 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit14_Pg096_Ex11_Listening_PtB.mp3",
+        "@length": "540672"
+      },
+      {
+        "unit": "13-14 PC",
+        "pg": "099",
+        "ex": "03 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit13-14PC_Pg099_Ex03_Listening_PtA.mp3",
+        "@length": "324608"
+      },
+      {
+        "unit": "13-14 PC",
+        "pg": "099",
+        "ex": "03 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit13-14PC_Pg099_Ex03_Listening_PtB.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "15",
+        "pg": "100",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit15_Pg100_Ex02_Conversation_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "15",
+        "pg": "100",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit15_Pg100_Ex02_Conversation_PtB.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "15",
+        "pg": "101",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit15_Pg101_Ex03_GrammarFocus.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "15",
+        "pg": "101",
+        "ex": "04 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit15_Pg101_Ex04_Listening_PtA.mp3",
+        "@length": "373760"
+      },
+      {
+        "unit": "15",
+        "pg": "101",
+        "ex": "04 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit15_Pg101_Ex04_Listening_PtB.mp3",
+        "@length": "369664"
+      },
+      {
+        "unit": "15",
+        "pg": "102",
+        "ex": "07 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit15_Pg102_Ex07_Perspectives_PtA.mp3",
+        "@length": "465920"
+      },
+      {
+        "unit": "15",
+        "pg": "103",
+        "ex": "08 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit15_Pg103_Ex08_GrammarFocus.mp3",
+        "@length": "613376"
+      },
+      {
+        "unit": "15",
+        "pg": "103",
+        "ex": "09 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit15_Pg103_Ex09_Pronunciation_PtA.mp3",
+        "@length": "596992"
+      },
+      {
+        "unit": "15",
+        "pg": "104",
+        "ex": "10 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit15_Pg104_Ex10_Listening_PtA.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "15",
+        "pg": "104",
+        "ex": "10 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit15_Pg104_Ex10_Listening_PtB.mp3",
+        "@length": "841728"
+      },
+      {
+        "unit": "16",
+        "pg": "106",
+        "ex": "02 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit16_Pg106_Ex02_Perspectives_PtA.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "16",
+        "pg": "107",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit16_Pg107_Ex03_GrammarFocus.mp3",
+        "@length": "1245184"
+      },
+      {
+        "unit": "16",
+        "pg": "108",
+        "ex": "06 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit16_Pg108_Ex06_Conversation_PtA.mp3",
+        "@length": "742400"
+      },
+      {
+        "unit": "16",
+        "pg": "109",
+        "ex": "07 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit16_Pg109_Ex07_Listening_PtA.mp3",
+        "@length": "1367040"
+      },
+      {
+        "unit": "16",
+        "pg": "109",
+        "ex": "07 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit16_Pg109_Ex07_Listening_PtB.mp3",
+        "@length": "2679808"
+      },
+      {
+        "unit": "16",
+        "pg": "109",
+        "ex": "08 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit16_Pg109_Ex08_GrammarFocus.mp3",
+        "@length": "1065984"
+      },
+      {
+        "unit": "16",
+        "pg": "110",
+        "ex": "09 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit16_Pg110_Ex09_Pronunciation_PtA.mp3",
+        "@length": "711680"
+      },
+      {
+        "unit": "16",
+        "pg": "110",
+        "ex": "09 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit16_Pg110_Ex09_Pronunciation_PtB.mp3",
+        "@length": "1817600"
+      },
+      {
+        "unit": "15-16 PC",
+        "pg": "113",
+        "ex": "03 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit15-16PC_Pg113_Ex03_Listening_PtA.mp3",
+        "@length": "654336"
+      },
+      {
+        "unit": "15-16 PC",
+        "pg": "113",
+        "ex": "03 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level2/Interchange4thEd_ClassAudio2_Unit15-16PC_Pg113_Ex03_Listening_PtB.mp3",
+        "@length": "1708032"
+      }
+    ]
+  },
+  "levelThree": {
+    "title": "Interchange Fourth Edition Level 3 Class Audio",
+    "link": [
+      "http://www.cambridge.org/interchange/audioprogram/level3/interchange4_L3_audio_rss.xml",
+      {
+        "@href": "http://www.cambridge.org/interchange/audioprogram/level3/interchange4_L3_audio_rss.xml",
+        "@rel": "self"
+      }
+    ],
+    "description": "The Interchange Fourth Edition Level 3 Class Audio, prepared for your portable media player.",
+    "pubDate": "Thu, 08 Dec 2011 10:59:56 GMT",
+    "lastBuildDate": "Thu, 08 Dec 2011 10:59:56 GMT",
+    "language": "en",
+    "category": {
+      "@text": "Education",
+      "category": {
+        "@text": "Language Courses"
+      }
+    },
+    "subtitle": "The Interchange Fourth Edition Level 3 Class Audio, prepared for your portable media player.",
+    "summary": "The Interchange Fourth Edition Level 3 Class Audio, prepared for your portable media player.",
+    "owner": {
+      "name": "Cambridge University Press",
+      "email": "cstechsupport@cambridge.org"
+    },
+    "image": [
+      {
+        "@href": "http://www.cambridge.org/interchange/audioprogram/level3/sb3_cover.jpg"
+      },
+      {
+        "title": "Interchange Fourth Edition Level 3 Class Audio",
+        "link": "http://www.cambridge.org/interchange/audioprogram/level3/interchange4_L3_audio_rss.xml",
+        "url": "http://www.cambridge.org/interchange/audioprogram/level3/sb3_cover.jpg",
+        "width": "468",
+        "height": "600"
+      }
+    ],
+    "explicit": "no",
+    "item": [
+      {
+        "unit": "01",
+        "pg": "002",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit01_Pg002_Ex02_Conversation_PtA.mp3",
+        "@length": "373760"
+      },
+      {
+        "unit": "01",
+        "pg": "002",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit01_Pg002_Ex02_Conversation_PtB.mp3",
+        "@length": "369664"
+      },
+      {
+        "unit": "01",
+        "pg": "003",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit01_Pg003_Ex03_GrammarFocus.mp3",
+        "@length": "465920"
+      },
+      {
+        "unit": "01",
+        "pg": "004",
+        "ex": "05 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit01_Pg004_Ex05_Listening_PtA.mp3",
+        "@length": "613376"
+      },
+      {
+        "unit": "01",
+        "pg": "004",
+        "ex": "05 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit01_Pg004_Ex05_Listening_PtB.mp3",
+        "@length": "596992"
+      },
+      {
+        "unit": "01",
+        "pg": "005",
+        "ex": "08 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit01_Pg005_Ex08_Perspectives_PtA.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "01",
+        "pg": "005",
+        "ex": "09 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit01_Pg005_Ex09_Pronunciation_PtA.mp3",
+        "@length": "841728"
+      },
+      {
+        "unit": "01",
+        "pg": "005",
+        "ex": "09 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit01_Pg005_Ex09_Pronunciation_PtB.mp3",
+        "@length": "878592"
+      },
+      {
+        "unit": "01",
+        "pg": "006",
+        "ex": "10 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit01_Pg006_Ex10_GrammarFocus.mp3",
+        "@length": "1245184"
+      },
+      {
+        "unit": "02",
+        "pg": "008",
+        "ex": "02 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit02_Pg008_Ex02_Perspectives_PtA.mp3",
+        "@length": "742400"
+      },
+      {
+        "unit": "02",
+        "pg": "009",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit02_Pg009_Ex03_GrammarFocus.mp3",
+        "@length": "1367040"
+      },
+      {
+        "unit": "02",
+        "pg": "011",
+        "ex": "07 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit02_Pg011_Ex07_Conversation_PtA.mp3",
+        "@length": "2679808"
+      },
+      {
+        "unit": "02",
+        "pg": "011",
+        "ex": "07 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit02_Pg011_Ex07_Conversation_PtB.mp3",
+        "@length": "1065984"
+      },
+      {
+        "unit": "02",
+        "pg": "011",
+        "ex": "08 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit02_Pg011_Ex08_GrammarFocus.mp3",
+        "@length": "711680"
+      },
+      {
+        "unit": "02",
+        "pg": "012",
+        "ex": "09 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit02_Pg012_Ex09_Pronunciation_PtA.mp3",
+        "@length": "1817600"
+      },
+      {
+        "unit": "02",
+        "pg": "012",
+        "ex": "10 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit02_Pg012_Ex10_Listening_PtA.mp3",
+        "@length": "654336"
+      },
+      {
+        "unit": "02",
+        "pg": "012",
+        "ex": "10 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit02_Pg012_Ex10_Listening_PtB.mp3",
+        "@length": "1708032"
+      },
+      {
+        "unit": "01-02 PC",
+        "pg": "014",
+        "ex": "02 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit01-02PC_Pg014_Ex02_Listening_PtA.mp3",
+        "@length": "1689600"
+      },
+      {
+        "unit": "03",
+        "pg": "016",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit03_Pg016_Ex02_Conversation_PtA.mp3",
+        "@length": "625664"
+      },
+      {
+        "unit": "03",
+        "pg": "016",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit03_Pg016_Ex02_Conversation_PtB.mp3",
+        "@length": "1095680"
+      },
+      {
+        "unit": "03",
+        "pg": "017",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit03_Pg017_Ex03_GrammarFocus.mp3",
+        "@length": "333824"
+      },
+      {
+        "unit": "03",
+        "pg": "018",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit03_Pg018_Ex04_Pronunciation_PtA.mp3",
+        "@length": "246784"
+      },
+      {
+        "unit": "03",
+        "pg": "018",
+        "ex": "04 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit03_Pg018_Ex04_Pronunciation_PtB.mp3",
+        "@length": "765952"
+      },
+      {
+        "unit": "03",
+        "pg": "018",
+        "ex": "05 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit03_Pg018_Ex05_Listening_PtA.mp3",
+        "@length": "753664"
+      },
+      {
+        "unit": "03",
+        "pg": "019",
+        "ex": "09 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit03_Pg019_Ex09_Perspectives_PtA.mp3",
+        "@length": "680960"
+      },
+      {
+        "unit": "03",
+        "pg": "020",
+        "ex": "10 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit03_Pg020_Ex10_GrammarFocus.mp3",
+        "@length": "523264"
+      },
+      {
+        "unit": "04",
+        "pg": "022",
+        "ex": "02 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit04_Pg022_Ex02_Perspectives_PtA.mp3",
+        "@length": "399360"
+      },
+      {
+        "unit": "04",
+        "pg": "023",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit04_Pg023_Ex03_GrammarFocus.mp3",
+        "@length": "2922496"
+      },
+      {
+        "unit": "04",
+        "pg": "023",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit04_Pg023_Ex04_Pronunciation_PtA.mp3",
+        "@length": "3530752"
+      },
+      {
+        "unit": "04",
+        "pg": "024",
+        "ex": "05 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit04_Pg024_Ex05_Listening_PtA.mp3",
+        "@length": "907264"
+      },
+      {
+        "unit": "04",
+        "pg": "024",
+        "ex": "05 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit04_Pg024_Ex05_Listening_PtB.mp3",
+        "@length": "531456"
+      },
+      {
+        "unit": "04",
+        "pg": "025",
+        "ex": "07 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit04_Pg025_Ex07_Conversation_PtA.mp3",
+        "@length": "548864"
+      },
+      {
+        "unit": "04",
+        "pg": "025",
+        "ex": "07 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit04_Pg025_Ex07_Conversation_PtB.mp3",
+        "@length": "1436672"
+      },
+      {
+        "unit": "04",
+        "pg": "025",
+        "ex": "08 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit04_Pg025_Ex08_GrammarFocus.mp3",
+        "@length": "1502208"
+      },
+      {
+        "unit": "03-04 PC",
+        "pg": "029",
+        "ex": "04 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit03-04PC_Pg029_Ex04_Listening.mp3",
+        "@length": "1295360"
+      },
+      {
+        "unit": "05",
+        "pg": "030",
+        "ex": "01 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit05_Pg030_Ex01_Perspectives_PtA.mp3",
+        "@length": "852992"
+      },
+      {
+        "unit": "05",
+        "pg": "031",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit05_Pg031_Ex03_GrammarFocus.mp3",
+        "@length": "576512"
+      },
+      {
+        "unit": "05",
+        "pg": "031",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit05_Pg031_Ex04_Pronunciation_PtA.mp3",
+        "@length": "1458176"
+      },
+      {
+        "unit": "05",
+        "pg": "033",
+        "ex": "07 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit05_Pg033_Ex07_Conversation_PtA.mp3",
+        "@length": "734208"
+      },
+      {
+        "unit": "05",
+        "pg": "033",
+        "ex": "07 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit05_Pg033_Ex07_Conversation_PtB.mp3",
+        "@length": "1233920"
+      },
+      {
+        "unit": "05",
+        "pg": "033",
+        "ex": "08 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit05_Pg033_Ex08_GrammarFocus.mp3",
+        "@length": "540672"
+      },
+      {
+        "unit": "05",
+        "pg": "034",
+        "ex": "09 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit05_Pg034_Ex09_Listening .mp3",
+        "@length": "324608"
+      },
+      {
+        "unit": "06",
+        "pg": "036",
+        "ex": "02 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit06_Pg036_Ex02_Perspectives_PtA.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "06",
+        "pg": "037",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit06_Pg037_Ex03_GrammarFocus.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "06",
+        "pg": "038",
+        "ex": "04 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit06_Pg038_Ex04_Listening_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "06",
+        "pg": "038",
+        "ex": "06 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit06_Pg038_Ex06_Conversation_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "06",
+        "pg": "038",
+        "ex": "06 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit06_Pg038_Ex06_Conversation_PtB.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "06",
+        "pg": "039",
+        "ex": "07 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit06_Pg039_Ex07_GrammarFocus.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "06",
+        "pg": "040",
+        "ex": "09 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit06_Pg040_Ex09_Pronunciation_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "06",
+        "pg": "040",
+        "ex": "09 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit06_Pg040_Ex09_Pronunciation_PtB.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "06",
+        "pg": "040",
+        "ex": "10 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit06_Pg040_Ex10_Listening.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "05-06 PC",
+        "pg": "043",
+        "ex": "03 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit05-06PC_Pg043_Ex03_Listening_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "07",
+        "pg": "044",
+        "ex": "02 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit07_Pg044_Ex02_Perspectives_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "07",
+        "pg": "045",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit07_Pg045_Ex03_GrammarFocus.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "07",
+        "pg": "046",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit07_Pg046_Ex04_Pronunciation_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "07",
+        "pg": "046",
+        "ex": "05 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit07_Pg046_Ex05_Listening_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "07",
+        "pg": "046",
+        "ex": "05 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit07_Pg046_Ex05_Listening_PtB.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "07",
+        "pg": "047",
+        "ex": "07 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit07_Pg047_Ex07_Conversation_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "07",
+        "pg": "047",
+        "ex": "07 Conversation Pt C",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit07_Pg047_Ex07_Conversation_PtC.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "07",
+        "pg": "047",
+        "ex": "08 Grammar FocusB",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit07_Pg047_Ex08_GrammarFocus.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "08",
+        "pg": "050",
+        "ex": "02 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit08_Pg050_Ex02_Perspectives_PtA.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "08",
+        "pg": "051",
+        "ex": "03 Pronunciation",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit08_Pg051_Ex03_Pronunciation.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "08",
+        "pg": "051",
+        "ex": "04 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit08_Pg051_Ex04_GrammarFocus.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "08",
+        "pg": "052",
+        "ex": "05 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit08_Pg052_Ex05_Listening_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "08",
+        "pg": "052",
+        "ex": "05 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit08_Pg052_Ex05_Listening_PtB.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "08",
+        "pg": "052",
+        "ex": "08 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit08_Pg052_Ex08_Conversation_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "08",
+        "pg": "052",
+        "ex": "08 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit08_Pg052_Ex08_Conversation_PtB.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "08",
+        "pg": "053",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit08_Pg053_Ex09_GrammarFocus.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "08",
+        "pg": "053",
+        "ex": "10 Discussion Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit08_Pg053_Ex10_Discussion_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "07-08 PC",
+        "pg": "057",
+        "ex": "03 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit07-08PC_Pg057_Ex03_Listening.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "09",
+        "pg": "058",
+        "ex": "02 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit09_Pg058_Ex02_Perspectives_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "09",
+        "pg": "059",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit09_Pg059_Ex03_GrammarFocus.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "09",
+        "pg": "059",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit09_Pg059_Ex04_Pronunciation_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "09",
+        "pg": "061",
+        "ex": "08 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit09_Pg061_Ex08_Conversation_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "09",
+        "pg": "061",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit09_Pg061_Ex09_GrammarFocus.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "09",
+        "pg": "062",
+        "ex": "10 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit09_Pg062_Ex10_Listening_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "10",
+        "pg": "064",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit10_Pg064_Ex02_Conversation_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "10",
+        "pg": "064",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit10_Pg064_Ex02_Conversation_PtB.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "10",
+        "pg": "065",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit10_Pg065_Ex03_GrammarFocus.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "10",
+        "pg": "065",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit10_Pg065_Ex04_Pronunciation_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "10",
+        "pg": "065",
+        "ex": "04 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit10_Pg065_Ex04_Pronunciation_PtB.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "10",
+        "pg": "067",
+        "ex": "09 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit10_Pg067_Ex09_Perspectives_PtA.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "10",
+        "pg": "067",
+        "ex": "10 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit10_Pg067_Ex10_GrammarFocus.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "10",
+        "pg": "068",
+        "ex": "11 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit10_Pg068_Ex11_Listening_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "09-10 PC",
+        "pg": "071",
+        "ex": "03 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit09-10PC_Pg071_Ex03_Listening_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "11",
+        "pg": "072",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit11_Pg072_Ex02_Conversation_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "11",
+        "pg": "072",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit11_Pg072_Ex02_Conversation_PtB.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "11",
+        "pg": "073",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit11_Pg073_Ex03_GrammarFocus.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "11",
+        "pg": "074",
+        "ex": "04 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit11_Pg074_Ex04_Listening_PtA.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "11",
+        "pg": "074",
+        "ex": "04 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit11_Pg074_Ex04_Listening_PtB.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "11",
+        "pg": "075",
+        "ex": "07 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit11_Pg075_Ex07_Perspectives_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "11",
+        "pg": "075",
+        "ex": "08 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit11_Pg075_Ex08_GrammarFocus.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "11",
+        "pg": "076",
+        "ex": "10 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit11_Pg076_Ex10_Pronunciation_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "11",
+        "pg": "076",
+        "ex": "11 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit11_Pg076_Ex11_Listening_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "11",
+        "pg": "076",
+        "ex": "11 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit11_Pg076_Ex11_Listening_PtB.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "12",
+        "pg": "078",
+        "ex": "02 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit12_Pg078_Ex02_Perspectives_PtA.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "12",
+        "pg": "079",
+        "ex": "03 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit12_Pg079_Ex03_Pronunciation_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "12",
+        "pg": "079",
+        "ex": "04 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit12_Pg079_Ex04_GrammarFocus.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "12",
+        "pg": "080",
+        "ex": "07 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit12_Pg080_Ex07_Conversation_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "12",
+        "pg": "081",
+        "ex": "08 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit12_Pg081_Ex08_GrammarFocus.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "12",
+        "pg": "082",
+        "ex": "09 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit12_Pg082_Ex09_Listening_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "12",
+        "pg": "082",
+        "ex": "09 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit12_Pg082_Ex09_Listening_PtB.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "11-12 PC",
+        "pg": "085",
+        "ex": "03 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit11-12PC_Pg085_Ex03_Listening_PtA.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "11-12 PC",
+        "pg": "085",
+        "ex": "03 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit11-12PC_Pg085_Ex03_Listening_PtB.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "13",
+        "pg": "086",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit13_Pg086_Ex02_Conversation_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "13",
+        "pg": "086",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit13_Pg086_Ex02_Conversation_PtB.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "13",
+        "pg": "087",
+        "ex": "03 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit13_Pg087_Ex03_Pronunciation_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "13",
+        "pg": "087",
+        "ex": "03 Pronunciation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit13_Pg087_Ex03_Pronunciation_PtB.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "13",
+        "pg": "087",
+        "ex": "04 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit13_Pg087_Ex04_GrammarFocus.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "13",
+        "pg": "087",
+        "ex": "05 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit13_Pg087_Ex05_Listening_PtB.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "13",
+        "pg": "088",
+        "ex": "08 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit13_Pg088_Ex08_Perspectives_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "13",
+        "pg": "089",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit13_Pg089_Ex09_GrammarFocus.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "13",
+        "pg": "090",
+        "ex": "11 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit13_Pg090_Ex11_Listening_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "14",
+        "pg": "092",
+        "ex": "02 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit14_Pg092_Ex02_Conversation_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "14",
+        "pg": "092",
+        "ex": "02 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit14_Pg092_Ex02_Conversation_PtB.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "14",
+        "pg": "093",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit14_Pg093_Ex03_GrammarFocus.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "14",
+        "pg": "093",
+        "ex": "04 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit14_Pg093_Ex04_Listening_PtA.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "14",
+        "pg": "093",
+        "ex": "04 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit14_Pg093_Ex04_Listening_PtB.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "14",
+        "pg": "095",
+        "ex": "08 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit14_Pg095_Ex08_Perspectives_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "14",
+        "pg": "095",
+        "ex": "09 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit14_Pg095_Ex09_Pronunciation_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "14",
+        "pg": "096",
+        "ex": "10 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit14_Pg096_Ex10_GrammarFocus.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "13-14 PC",
+        "pg": "098",
+        "ex": "01 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit13-14PC_Pg098_Ex01_Listening_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "15",
+        "pg": "100",
+        "ex": "02 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit15_Pg100_Ex02_Perspectives_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "15",
+        "pg": "101",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit15_Pg101_Ex03_GrammarFocus.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "15",
+        "pg": "102",
+        "ex": "05 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit15_Pg102_Ex05_Listening_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "15",
+        "pg": "103",
+        "ex": "08 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit15_Pg103_Ex08_Conversation_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "15",
+        "pg": "103",
+        "ex": "08 Conversation Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit15_Pg103_Ex08_Conversation_PtB.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "15",
+        "pg": "103",
+        "ex": "09 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit15_Pg103_Ex09_GrammarFocus.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "15",
+        "pg": "104",
+        "ex": "10 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit15_Pg104_Ex10_Pronunciation_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "15",
+        "pg": "104",
+        "ex": "11 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit15_Pg104_Ex11_Listening_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "15",
+        "pg": "104",
+        "ex": "11 Listening Pt B",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit15_Pg104_Ex11_Listening_PtB.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "16",
+        "pg": "106",
+        "ex": "02 Perspectives Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit16_Pg106_Ex02_Perspectives_PtA.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "16",
+        "pg": "107",
+        "ex": "03 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit16_Pg107_Ex03_GrammarFocus.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "16",
+        "pg": "107",
+        "ex": "04 Pronunciation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit16_Pg107_Ex04_Pronunciation_PtA.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "16",
+        "pg": "108",
+        "ex": "06 Listening",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit16_Pg108_Ex06_Listening.mp3",
+        "@length": "1667072"
+      },
+      {
+        "unit": "16",
+        "pg": "109",
+        "ex": "09 Conversation Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit16_Pg109_Ex09_Conversation_PtA.mp3",
+        "@length": "731136"
+      },
+      {
+        "unit": "16",
+        "pg": "109",
+        "ex": "10 Grammar Focus",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit16_Pg109_Ex10_GrammarFocus.mp3",
+        "@length": "1120256"
+      },
+      {
+        "unit": "16",
+        "pg": "110",
+        "ex": "11 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit16_Pg110_Ex11_Listening_PtA.mp3",
+        "@length": "744448"
+      },
+      {
+        "unit": "15-16 PC",
+        "pg": "112",
+        "ex": "02 Listening Pt A",
+        "audio": "http://www.cambridge.org/interchange/audioprogram/level3/Interchange4thEd_ClassAudio3_Unit15-16PC_Pg112_Ex02_Listening_PtA.mp3",
+        "@length": "1667072"
+      }
+    ]
+  }
+}
