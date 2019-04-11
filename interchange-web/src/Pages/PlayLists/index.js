@@ -4,6 +4,7 @@ import { Container, Header, AudioList } from "./styles";
 import ClockIcon from "../../assets/images/clock.svg";
 import PlayIcon from "../../assets/images/play.svg";
 
+console.tron.log("teste");
 const PlayLists = () => (
   <Container>
     <Header>
