@@ -7,7 +7,7 @@ import PlayList from "../Pages/PlayLists";
 const Routes = () => (
   <Switch>
     <Route exact path="/" component={Browse} />
-    <Route path="/playlists/:id" component={PlayList} />
+    <Route path="/books/:id" component={PlayList} />
   </Switch>
 );
 

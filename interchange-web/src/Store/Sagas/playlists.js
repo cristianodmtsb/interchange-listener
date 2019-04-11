@@ -9,6 +9,6 @@ export function* getPlaylists() {
 
     yield put(PlaylistsActions.getPlaylistsSuccess(response.data));
   } catch (err) {
-    console.tron.log(err);
+    console.log(err);
   }
 }

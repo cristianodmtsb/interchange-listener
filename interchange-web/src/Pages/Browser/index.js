@@ -1,57 +1,58 @@
-import React from "react";
+import React, { Component } from "react";
+import PropTypes from "prop-types";
+import { Link } from "react-router-dom";
+
+import { connect } from "react-redux";
+import { bindActionCreators } from "redux";
+import { Creators as PlaylistsActions } from "../../Store/Ducks/playlists";
 
 import { Container, Title, List, PlayList } from "./styles";
 
-const Browse = () => (
-  <Container>
-    <Title>Select your level</Title>
-    <List>
-      <PlayList to="/playlists/1">
-        <img
-          src="https://images.emojiterra.com/google/android-oreo/512px/1f1fa.png"
-          alt="Player"
-        />
-        <strong>Interchange Fourth Edition Intro Class Audio</strong>
-        <p>
-          The Interchange Fourth Edition Intro Class Audio, prepared for your
-          portable media player.
-        </p>
-      </PlayList>
-      <PlayList to="/playlists/1">
-        <img
-          src="https://images.emojiterra.com/google/android-oreo/512px/1f1fa.png"
-          alt="Player"
-        />
-        <strong>Interchange Fourth Edition Intro Class Audio</strong>
-        <p>
-          The Interchange Fourth Edition Intro Class Audio, prepared for your
-          portable media player.
-        </p>
-      </PlayList>
-      <PlayList to="/playlists/1">
-        <img
-          src="https://images.emojiterra.com/google/android-oreo/512px/1f1fa.png"
-          alt="Player"
-        />
-        <strong>Interchange Fourth Edition Intro Class Audio</strong>
-        <p>
-          The Interchange Fourth Edition Intro Class Audio, prepared for your
-          portable media player.
-        </p>
-      </PlayList>
-      <PlayList to="/playlists/1">
-        <img
-          src="https://images.emojiterra.com/google/android-oreo/512px/1f1fa.png"
-          alt="Player"
-        />
-        <strong>Interchange Fourth Edition Intro Class Audio</strong>
-        <p>
-          The Interchange Fourth Edition Intro Class Audio, prepared for your
-          portable media player.
-        </p>
-      </PlayList>
-    </List>
-  </Container>
-);
+class Browse extends Component {
+  static propTypes = {
+    getPlaylistsRequest: PropTypes.func.isRequired,
+    playlists: PropTypes.shape({
+      data: PropTypes.arrayOf(
+        PropTypes.shape({
+          id: PropTypes.number,
+          title: PropTypes.string,
+          image: PropTypes.string,
+          subtitle: PropTypes.string
+        })
+      )
+    }).isRequired
+  };
+  componentDidMount() {
+    this.props.getPlaylistsRequest();
+  }
 
-export default Browse;
+  render() {
+    return (
+      <Container>
+        <Title>Select your level</Title>
+        <List>
+          {this.props.playlists.data.map(playlist => (
+            <PlayList key={playlist.id} to={`/books/${playlist.id}`}>
+              <img
+                src="https://images.emojiterra.com/google/android-oreo/512px/1f1fa.png"
+                alt={playlist.title}
+              />
+              <strong>{playlist.title}</strong>
+              <p>{playlist.subtitle}</p>
+            </PlayList>
+          ))}
+        </List>
+      </Container>
+    );
+  }
+}
+
+const mapStateToProps = state => ({ playlists: state.playlists });
+
+const mapDispatchToProps = dispatch =>
+  bindActionCreators(PlaylistsActions, dispatch);
+
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(Browse);
