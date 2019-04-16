@@ -7,6 +7,8 @@ import { Creators as PlaylistsActions } from "../../Store/Ducks/playlists";
 
 import { Container, Nav, Copy } from "./style";
 
+import Loading from "../Loading";
+
 class Sidebar extends Component {
   static propTypes = {
     getPlaylistsRequest: PropTypes.func.isRequired,
@@ -16,7 +18,8 @@ class Sidebar extends Component {
           id: PropTypes.number,
           title: PropTypes.string
         })
-      )
+      ),
+      Loading: PropTypes.bool
     }).isRequired
   };
   componentDidMount() {
@@ -26,14 +29,18 @@ class Sidebar extends Component {
     return (
       <Container>
         <div>
-          <h4>
-            <Link to="/">Home</Link>
-          </h4>
           <Nav>
-            <h4>BOOKS</h4>
+            <li>
+              <h4>
+                <Link to="/">Home</Link>
+              </h4>
+            </li>
+            <li>
+              <h4>BOOKS {this.props.playlists.loading && <Loading />}</h4>
+            </li>
             {this.props.playlists.data.map(playlist => (
               <li key={playlist.id}>
-                <Link to={`books/${playlist.id}`}>{playlist.title}</Link>
+                <Link to={`/books/${playlist.id}`}>{playlist.title}</Link>
               </li>
             ))}
           </Nav>

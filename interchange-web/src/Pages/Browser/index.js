@@ -8,6 +8,8 @@ import { Creators as PlaylistsActions } from "../../Store/Ducks/playlists";
 
 import { Container, Title, List, PlayList } from "./styles";
 
+import Loading from "../../Components/Loading";
+
 class Browse extends Component {
   static propTypes = {
     getPlaylistsRequest: PropTypes.func.isRequired,
@@ -19,7 +21,8 @@ class Browse extends Component {
           image: PropTypes.string,
           subtitle: PropTypes.string
         })
-      )
+      ),
+      Loading: PropTypes.bool
     }).isRequired
   };
   componentDidMount() {
@@ -29,7 +32,9 @@ class Browse extends Component {
   render() {
     return (
       <Container>
-        <Title>Select your level</Title>
+        <Title>
+          Select your level {this.props.playlists.loading && <Loading />}
+        </Title>
         <List>
           {this.props.playlists.data.map(playlist => (
             <PlayList key={playlist.id} to={`/books/${playlist.id}`}>
