@@ -1,7 +1,9 @@
 import Sound from "react-sound";
 
 export const Types = {
-  LOAD: "player/LOAD"
+  LOAD: "player/LOAD",
+  PLAY: "player/PLAY",
+  PAUSE: "player/PAUSE"
 };
 
 const INITIAL_STATE = {
@@ -18,6 +20,18 @@ export default function player(state = INITIAL_STATE, action) {
         status: Sound.status.PLAYING
       };
       break;
+    case Types.PLAY:
+      return {
+        ...state,
+        status: Sound.status.PLAYING
+      };
+      break;
+    case Types.PAUSE:
+      return {
+        ...state,
+        status: Sound.status.PAUSED
+      };
+      break;
     default:
       return state;
       break;
@@ -25,5 +39,7 @@ export default function player(state = INITIAL_STATE, action) {
 }
 
 export const Creators = {
-  loadSong: song => ({ type: Types.LOAD, payload: { song } })
+  loadSong: song => ({ type: Types.LOAD, payload: { song } }),
+  play: () => ({ type: Types.PLAY }),
+  pause: () => ({ type: Types.PAUSE })
 };
