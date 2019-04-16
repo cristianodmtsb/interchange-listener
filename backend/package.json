@@ -1,0 +1,14 @@
+{
+  "name": "api-interchange-listner",
+  "version": "1.0.0",
+  "description": "API for Interchange Listner",
+  "main": "index.js",
+  "scripts": {
+    "production": "json-server --watch db-interchange.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.2"
+  }
+}
