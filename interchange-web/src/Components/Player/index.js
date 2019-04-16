@@ -1,5 +1,9 @@
 import React from "react";
 import Slider from "rc-slider";
+import Sound from "react-sound";
+import PropTypes from "prop-types";
+
+import { connect } from "react-redux";
 
 import {
   Container,
@@ -19,9 +23,12 @@ import PauseIcon from "../../assets/images/pause.svg";
 import Forwardicon from "../../assets/images/forward.svg";
 import RepeatIcon from "../../assets/images/repeat.svg";
 
-const Player = () => {
+const Player = ({ player }) => {
   return (
     <Container>
+      {!!player.currentSong && (
+        <Sound url={player.currentSong.audio} playStatus={player.status} />
+      )}
       <Current>
         <img
           src="https://images.emojiterra.com/google/android-oreo/512px/1f1fa.png"
@@ -77,4 +84,16 @@ const Player = () => {
   );
 };
 
-export default Player;
+Player.propTypes = {
+  player: PropTypes.shape({
+    currentSong: PropTypes.shape({
+      audio: PropTypes.string
+    })
+  }).isRequired
+};
+
+const mapStateToProps = state => ({
+  player: state.player
+});
+
+export default connect(mapStateToProps)(Player);
