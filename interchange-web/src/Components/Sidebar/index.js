@@ -46,7 +46,27 @@ class Sidebar extends Component {
           </Nav>
         </div>
         <Copy>
-          Criado por:{" "}
+          <p>Make a donation</p>
+          <form
+            action="https://pagseguro.uol.com.br/checkout/v2/donation.html"
+            method="post"
+          >
+            <input type="hidden" name="currency" value="BRL" />
+            <input
+              type="hidden"
+              name="receiverEmail"
+              value="cristianodmtsb@gmail.com"
+            />
+            <input type="hidden" name="iot" value="button" />
+            <input
+              type="image"
+              src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/95x45-doar-azul.gif"
+              name="submit"
+              alt="Pague com PagSeguro - é rápido, grátis e seguro!"
+            />
+          </form>{" "}
+          <br />
+          Criado por:
           <a href="https://cristianocastro.net" target="_blank">
             Cristiano Castro
           </a>

@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:3004"
+  baseURL: "https://interchange-listener-api.herokuapp.com"
 });
 
 export default api;

@@ -12,7 +12,7 @@ export const Container = styled.div`
 `;
 
 export const Current = styled.div`
-  width: 230px;
+  min-width: 215px;
   display: flex;
   align-items: center;
   img {

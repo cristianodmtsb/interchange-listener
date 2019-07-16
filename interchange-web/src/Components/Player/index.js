@@ -71,9 +71,6 @@ const Player = ({
 
     <Progress>
       <Controls>
-        <button>
-          <img src={ShuffleIcon} alt="Shuffle" />
-        </button>
         <button onClick={prev}>
           <img src={BackwardIcon} alt="Previous" />
         </button>
@@ -89,9 +86,6 @@ const Player = ({
 
         <button onClick={next}>
           <img src={Forwardicon} alt="Next" />
-        </button>
-        <button>
-          <img src={RepeatIcon} alt="Repeat" />
         </button>
       </Controls>
       <Time>

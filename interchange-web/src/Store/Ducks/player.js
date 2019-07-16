@@ -29,7 +29,8 @@ export default function player(state = INITIAL_STATE, action) {
         ...state,
         currentSong: action.payload.song,
         list: action.payload.list,
-        status: Sound.status.PLAYING
+        status: Sound.status.PLAYING,
+        position: action.payload.position
       };
     case Types.PLAY:
       return { ...state, status: Sound.status.PLAYING };
@@ -94,9 +95,9 @@ export default function player(state = INITIAL_STATE, action) {
 }
 
 export const Creators = {
-  loadSong: (song, list) => ({
+  loadSong: (song, list, position) => ({
     type: Types.LOAD,
-    payload: { song, list }
+    payload: { song, list, position }
   }),
   play: () => ({ type: Types.PLAY }),
   pause: () => ({ type: Types.PAUSE }),

@@ -25,6 +25,7 @@ class Browse extends Component {
       Loading: PropTypes.bool
     }).isRequired
   };
+
   componentDidMount() {
     this.props.getPlaylistsRequest();
   }
@@ -38,16 +39,14 @@ class Browse extends Component {
         <List>
           {this.props.playlists.data.map(playlist => (
             <PlayList key={playlist.id} to={`/books/${playlist.id}`}>
-              <img
-                src="https://images.emojiterra.com/google/android-oreo/512px/1f1fa.png"
-                alt={playlist.title}
-              />
+              <img src={playlist.image} alt={playlist.title} />
               <strong>{playlist.title}</strong>
               <p>{playlist.subtitle}</p>
             </PlayList>
           ))}
         </List>
       </Container>
+      // https://interchange-listener-api.herokuapp.com/exercises?bookId=1&unit=1
     );
   }
 }

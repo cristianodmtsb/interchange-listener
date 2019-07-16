@@ -34,7 +34,8 @@ export const PlayList = styled(Link)`
   text-decoration: none;
 
   img {
-    height: 250px;
+    width: 250px;
+    height: auto;
     background: #fff;
     border-radius: 4px;
   }
